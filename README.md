@@ -3,9 +3,7 @@
 
 ## https://shields.io/
 
-## [leetcode](https://leetcode-cn.com/problemset/all/)
-
-<h1 align="center">webVueBlog的Leetcode刷题📒</h1>
+<h1 align="center">webVueBlog的[leetcode](https://leetcode-cn.com/problemset/all/)刷题📒</h1>
 <div align="center">
   	<img src="https://img.shields.io/badge/-Easy-green">
  	  <img src="https://img.shields.io/badge/-Medium-orange">
