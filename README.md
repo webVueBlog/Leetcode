@@ -12,7 +12,12 @@
     <img src="https://img.shields.io/badge/-Hard-red">
 </div>
 
-| No | Title |   Difficulty  |   navigation    |
+1. `Number`题号
+2. `Title`题目
+3. `Difficulty`难度
+4. `Navigation`解答
+
+| Number | Title |   Difficulty  |   Navigation    |
 | :--: | :------:  |:------: | :------: |
 |  01  | 字数  | <img src="https://img.shields.io/badge/-Easy-green"> | `boring` |
 
