@@ -19,7 +19,7 @@
 
 | Number | Title |   Difficulty  |   Navigation    |
 | :--: | :------:  |:------: | :------: |
-|  1.  | 两数之和  | <img src="https://img.shields.io/badge/-Easy-green"> | [两数之和](题库/1. 两数之和.md) |
+|  1.  | 两数之和  | <img src="https://img.shields.io/badge/-Easy-green"> | [两数之和](题库/两数之和.md) |
 
 
 
