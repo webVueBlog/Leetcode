@@ -19,7 +19,7 @@
 
 | Number | Title |   Difficulty  |   Navigation    |
 | :--: | :------:  |:------: | :------: |
-|  01  | 字数  | <img src="https://img.shields.io/badge/-Easy-green"> | `boring` |
+|  1.  | 两数之和  | <img src="https://img.shields.io/badge/-Easy-green"> | [两数之和](1. 两数之和.md) |
 
 
 
