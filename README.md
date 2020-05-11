@@ -21,6 +21,7 @@
 | :--: | :------:  |:------: | :------: |
 |  1.  | 两数之和  | <img src="https://img.shields.io/badge/-Easy-green"> | [两数之和](题库/两数之和.md) |
 |  2.  | 两数相加  | <img src="https://img.shields.io/badge/-Medium-orange"> | [两数相加](题库/两数相加.md) |
+|  2.  | 无重复字符的最长子串 | <img src="https://img.shields.io/badge/-Medium-orange"> | [两数相加](题库/无重复字符的最长子串.md) |
 
 
 
