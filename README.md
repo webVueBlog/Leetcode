@@ -23,7 +23,5 @@
 |  2.  | 两数相加  | <img src="https://img.shields.io/badge/-Medium-orange"> | [两数相加](题库/两数相加.md) |
 |  3.  | 无重复字符的最长子串 | <img src="https://img.shields.io/badge/-Medium-orange"> | [无重复字符的最长子串](题库/无重复字符的最长子串.md) |
 
-
-
 ## License
 [![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/webVueBlog/interview-answe)
