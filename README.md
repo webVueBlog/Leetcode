@@ -1,6 +1,10 @@
 # Leetcode
 👩🏻‍💻Leetcode刷题&amp;答案
 
+```
+git config --global user.email '2979986590@qq.com'
+```
+
 ## https://shields.io/
 
 ## [leetcode](https://leetcode-cn.com/problemset/all/)
