@@ -1,10 +1,11 @@
 # Leetcode
 
+〉 如果你所学的东西 处于喜欢 才会有强大的动力支撑。 
+
 👩🏻‍💻 Leetcode刷题&amp;答案
 
-## https://shields.io/
-
-## [leetcode](https://leetcode-cn.com/problemset/all/)
+- https://shields.io/
+- [leetcode](https://leetcode-cn.com/problemset/all/)
 
 <h1 align="center">webVueBlog的leetcode刷题📒</h1>
 <div align="center">
