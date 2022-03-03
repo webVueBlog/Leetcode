@@ -8,12 +8,21 @@
 
 👤：我是哪吒： 如果你所学的东西 处于喜欢 才会有强大的动力支撑。 （三年之约）
 
-👩🏻‍💻 Leetcode刷题&amp;答案
+## 🐤 交流讨论 && 如何学习 && 转载声明
+
+第一：你可以直接在本仓库阅读即可，阶段性学习。 （可以转载里面的所有面试题用到任何地方，但请添加仓库的地址）
+
+欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
+
+## 阶段一
+
+
+## Leetcode刷题&amp;答案
 
 - https://shields.io/
 - [leetcode](https://leetcode-cn.com/problemset/all/)
 
-<h1 align="center">webVueBlog的leetcode刷题📒</h1>
+<h1 align="center">👩🏻‍💻：webVueBlog的leetcode刷题📒</h1>
 <div align="center">
   	<img src="https://img.shields.io/badge/-Easy-green">
  	  <img src="https://img.shields.io/badge/-Medium-orange">
