@@ -27,6 +27,7 @@ https://github.com/webVueBlog/Leetcode
 - 2.[csrf](./阶段一/csrf.md)
 - 3.[html加载过程](./阶段一/html加载过程.md)
 - 4.[defer和async的区别](./阶段一/defer和async的区别.md)
+- 5.[输入一个url后](./阶段一/输入一个url后.md)
 
 ## Leetcode刷题&amp;答案
 
