@@ -60,3 +60,4 @@ DOMContentLoaded事件只关注HTML是否被解析完，而不关注async脚本�
 9. 尽量缓存DOM查找，查找器尽量简洁；
 10. 涉及多域名的网站，可以开启 域名 预解析
 
+https://github.com/webVueBlog/Leetcode
