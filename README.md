@@ -29,6 +29,7 @@ https://github.com/webVueBlog/Leetcode
 - 4.[defer和async的区别](./阶段一/defer和async的区别.md)
 - 5.[输入一个url后](./阶段一/输入一个url后.md)
 - 6.[浏览器线程线程模型](./阶段一/浏览器线程线程模型.md)
+- 7.[浏览器缓存](./阶段一/浏览器缓存.md)
 
 ## Leetcode刷题&amp;答案
 
