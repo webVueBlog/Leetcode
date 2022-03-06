@@ -40,3 +40,4 @@ transition过渡时，使用key属性，可以区分它们是否变化，否则v
 
 key是为Vue中vnode的唯一标记，通过这个key，我们的diff操作可以更准确、更快速 更准确：因为带key就不是就地复用了，在sameVnode函数a.key === b.key对比中可以避免就地复用的情况。所以会更加准确。更快速：利用 key的唯一性生成map对象来获取对应节点，比遍历方式更快
 
+https://github.com/webVueBlog/Leetcode
