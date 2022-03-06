@@ -38,6 +38,7 @@ https://github.com/webVueBlog/Leetcode
 - 13.[vue-router原理](./阶段一/vue-router原理.md)
 - 14.[跨域问题解决方案](./阶段一/跨域问题解决方案.md)
 - 15.[ObjectdefinePropery和proxy](./阶段一/ObjectdefinePropery和proxy.md)
+- 16.[vue组件通信](./阶段一/vue组件通信.md)
 
 ## Leetcode刷题&amp;答案
 
