@@ -36,6 +36,8 @@ https://github.com/webVueBlog/Leetcode
 - 11.[vue框架好在哪里](./阶段一/vue框架好在哪里.md)
 - 12.[vue双向绑定弊端set实现](./阶段一/vue双向绑定弊端set实现.md)
 - 13.[vue-router原理](./阶段一/vue-router原理.md)
+- 14.[跨域问题解决方案](./阶段一/跨域问题解决方案.md)
+- 15.[ObjectdefinePropery和proxy](./阶段一/ObjectdefinePropery和proxy.md)
 
 ## Leetcode刷题&amp;答案
 
