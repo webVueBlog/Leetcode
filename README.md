@@ -34,6 +34,8 @@ https://github.com/webVueBlog/Leetcode
 - 9.[vue-DIFF算法](./阶段一/vue-DIFF算法.md)
 - 10.[箭头函数和普通函数的区别](./阶段一/箭头函数和普通函数的区别.md)
 - 11.[vue框架好在哪里](./阶段一/vue框架好在哪里.md)
+- 12.[vue双向绑定弊端set实现](./阶段一/vue双向绑定弊端set实现.md)
+- 13.[vue-router原理](./阶段一/vue-router原理.md)
 
 ## Leetcode刷题&amp;答案
 

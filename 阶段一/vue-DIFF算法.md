@@ -40,4 +40,61 @@ transition过渡时，使用key属性，可以区分它们是否变化，否则v
 
 key是为Vue中vnode的唯一标记，通过这个key，我们的diff操作可以更准确、更快速 更准确：因为带key就不是就地复用了，在sameVnode函数a.key === b.key对比中可以避免就地复用的情况。所以会更加准确。更快速：利用 key的唯一性生成map对象来获取对应节点，比遍历方式更快
 
+```js
+function patchVnode(oldVnode, vnode, parentElm) {
+ // 属性改变
+ patchArrt(oldVnode.arr, vnode.arr, parentElm);
+ // 子节点改变
+ patchChildren(parentElm, oldVnode.children, vnode.children);
+}
+
+function patchArrt(oldVnode = {}, vnode = {}, parentElm) {
+ function each(obj, fn) {
+  if (Object.prototype.toString.call(obj) !== "[object Object]") {
+   return "只能遍历对象";
+  }
+  for (const key in obj) {
+   if (obj.hasOwnProperty[key]) {
+    let val = obj[key];
+     fn(key, val);
+   }
+  }
+ }
+ each(oldVnode, (key, val) => {
+  // 遍历 oldVnode 看 newTreeAttr 是否还有对应的属性
+  if (vnode[key]) {
+   // 如果有并且不相等的，修改对应的属性。
+   val !== vnode[key] && setAttr(parentElm, key, vnode[key]);
+  } else {
+   // 没有的话，直接删除对应的属性
+   parentElm.removeAttribute(key);
+  }
+ });
+ 
+ function setAttr(node, key, value) {
+  switch(key) {
+   case "style":
+    each(value, (key, val) => {
+     node.style[key] = val;
+    });
+    break;
+   case "value":
+    var tag = node.tag || "";
+    tag = tag.toLowerCase();
+    if (tag === "input" || tag === "textarea") {
+     node.value = value;
+    } else {
+     // if it is not a input or textarea, use 'setAttribute' to set
+     // 如果新节点有属性，直接添加
+     node.setAttribute(key, value);
+    }
+    break;
+   default:
+    node.setAttribute(key, value);
+    break;
+  }
+ }
+}
+```
+
 https://github.com/webVueBlog/Leetcode
