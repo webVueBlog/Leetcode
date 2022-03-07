@@ -39,6 +39,7 @@ https://github.com/webVueBlog/Leetcode
 - 14.[跨域问题解决方案](./阶段一/跨域问题解决方案.md)
 - 15.[ObjectdefinePropery和proxy](./阶段一/ObjectdefinePropery和proxy.md)
 - 16.[vue组件通信](./阶段一/vue组件通信.md)
+- 17.
 
 ## Leetcode刷题&amp;答案
 
