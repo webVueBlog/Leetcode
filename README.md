@@ -13,7 +13,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 🐤 交流讨论 && 如何学习 && 转载声明
 
-第一：你可以直接在本仓库阅读即可，阶段性学习。 （可以转载里面的所有面试题用到任何地方，但请添加仓库的地址）有问题欢迎提交[issues](https://github.com/webVueBlog/Leetcode/issues)
+第一：你可以直接在本仓库阅读即可，阶段性学习。 （可以转载里面的所有知识点用到任何地方，但请添加仓库的地址）有问题欢迎提交[issues](https://github.com/webVueBlog/Leetcode/issues)
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
