@@ -24,6 +24,8 @@ https://github.com/webVueBlog/Leetcode
 ## 阶段一
 
 <details>
+<summary>展开查看</summary>
+
 - 1.[xss总结](./阶段一/xss总结.md)
 - 2.[csrf](./阶段一/csrf.md)
 - 3.[html加载过程](./阶段一/html加载过程.md)
@@ -45,6 +47,7 @@ https://github.com/webVueBlog/Leetcode
 - 19.[Axios](./阶段一/Axios.md)
 - 20.[跨域](./阶段一/跨域.md)
 - 21.[websocket](./阶段一/websocket.md)
+
 </details>
 
 
