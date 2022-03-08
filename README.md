@@ -39,7 +39,13 @@ https://github.com/webVueBlog/Leetcode
 - 14.[跨域问题解决方案](./阶段一/跨域问题解决方案.md)
 - 15.[ObjectdefinePropery和proxy](./阶段一/ObjectdefinePropery和proxy.md)
 - 16.[vue组件通信](./阶段一/vue组件通信.md)
-- 17.
+- 17.[vue双向绑定](./阶段一/vue双向绑定.md)
+- 18.[三次握手和四次挥手](./阶段一/三次握手和四次挥手.md)
+- 19.[Axios](./阶段一/Axios.md)
+- 20.[跨域](./阶段一/跨域.md)
+- 21.[websocket](./阶段一/websocket.md)
+- 22.
+
 
 ## Leetcode刷题&amp;答案
 
