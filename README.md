@@ -57,6 +57,7 @@ https://github.com/webVueBlog/Leetcode
 - 29.[TCP](./阶段一/TCP.md)
 - 30.[vue-router原理2](./阶段一/vue-router原理2.md)
 - 31.[清除浮动的方式](./阶段一/清除浮动的方式.md)
+- 32.[发布订阅模式](./阶段一/发布订阅模式.js)
 
 
 </details>
