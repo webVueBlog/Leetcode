@@ -11,6 +11,36 @@ class Observer {
  }
  // 添加订阅者
  on(type, fn) {
-  if (!this.message[type]) {}
+  if (!this.message[type]) {
+   this.message[type] = []
+  }
+  this.message[type].push(fn);
+ }
+ // 删除订阅
+ off(type, fn) {
+  if (!this.message.hasOwnProperty(type)) return;
+  if (!fn) {
+   this.message[type] = undefined;
+   return;
+  }
+  this.message[type] = this.message[type].filter((item) => item !== fn)
+ }
+ // 发布消息
+ emit(type) {
+  if (!this.message[type]) return;
+  this.message[type].forEach((item) => {
+   item();
+  });
  }
 }
+
+// 使用构造函数创建实例
+const person1 = new Observer();
+person1.on("js", handlerA);
+person1.on("红宝书", handlerB);
+person1.on("红宝书", handlerC);
+function handlerA() {console.log("handlerA");}
+function handlerB() {console.log("handlerB执行");}
+function handlerC() {console.log("handlerC");}
+person1.emit("红宝书");
+    
