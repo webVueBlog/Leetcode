@@ -23,7 +23,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 全栈架构师
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - [vue源码解读](./全栈架构师/vue源码解读.md)

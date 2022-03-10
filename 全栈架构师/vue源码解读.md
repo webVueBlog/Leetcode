@@ -20,4 +20,11 @@ vue工作机制
 👕初始化之后🎣调用 $mount 挂载组件。
 
 
+new Vue() - init -> $mount -> compile() [parse optimize generate] -> render function - touch -> getter -> collect as Dependency -> Watcher
+                                                                                     - render -> Virtual DOM Tree -> patch()
 
+
+
+new MVVM() -> Observer(劫持监听所有属性) -> 通知变化
+           -> Compile(解析指令) -> 订阅数据变化，绑定更新函数 -> Watcher
+                               -> 初始化试图 -> Updater <- 更新视图 <- Watcher
