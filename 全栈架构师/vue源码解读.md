@@ -49,6 +49,7 @@ getter 和 setter ， 初始化的时候通过 defineProperty 进行待定，设
 
 Virtual DOM 是 react 首创，Vue2 开始支持，就是用 JavaScript 对象来描述 dom 结构，数据修改的时候，我们先修改过虚拟 dom 中的数据，然后数组做 diff ，最后再汇总所有的 diff，力求做最少的 dom 操作，毕竟 js 里对比很快，而真实的 dom 操作太慢
 
+
 // vdom
 {
  tag: 'div',
