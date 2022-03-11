@@ -23,7 +23,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 全栈架构师
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 - [vue源码解读](./全栈架构师/vue源码解读.md)
@@ -39,7 +39,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## weChat
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -48,7 +48,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 阶段一
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 - 1.[xss总结](./阶段一/xss总结.md)
@@ -89,7 +89,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## JavaScript
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -97,7 +97,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## CSS
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -106,7 +106,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## HTML
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -115,7 +115,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## Vue
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -123,7 +123,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 算法
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -131,7 +131,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 计算机网络
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -139,7 +139,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 趣味屋
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -147,7 +147,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## Node
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -155,7 +155,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## Typescript
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -163,7 +163,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 性能优化
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -171,7 +171,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 前端安全
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -179,7 +179,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## ES6
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -187,7 +187,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 编程题
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -195,7 +195,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 设计模式
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -203,7 +203,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 工程化
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -211,7 +211,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 计算机基础
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -219,7 +219,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## leetcode
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
@@ -227,7 +227,7 @@ https://github.com/webVueBlog/Leetcode
 
 ## 运行代码
 
-<details>
+<details open>
 <summary>展开查看</summary>
 
 
