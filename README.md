@@ -26,7 +26,7 @@ https://github.com/webVueBlog/Leetcode
 <details open>
 <summary>展开查看</summary>
 
-- [vue源码解读](./全栈架构师/vue源码解读.md)
+- [vue源码解读](./全栈架构师/vue源码解读.js)
 - [webpack原理剖析](./全栈架构师/webpack原理剖析.md)
 - [vue-router前端路由原理剖析](./全栈架构师/vue-router前端路由原理剖析.md)
 - [React16虚拟dom原理剖析](./全栈架构师/React16虚拟dom原理剖析.md)
