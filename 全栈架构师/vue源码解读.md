@@ -49,31 +49,49 @@ getter 和 setter ， 初始化的时候通过 defineProperty 进行待定，设
 
 Virtual DOM 是 react 首创，Vue2 开始支持，就是用 JavaScript 对象来描述 dom 结构，数据修改的时候，我们先修改过虚拟 dom 中的数据，然后数组做 diff ，最后再汇总所有的 diff，力求做最少的 dom 操作，毕竟 js 里对比很快，而真实的 dom 操作太慢
 
+	// vdom
+	{
+		tag: 'div',
+		props: {
+		name: 'jeskson',
+		style: { color: red },
+		onClick: xx
+		}
+		children: [
+		{
+			tag: 'a',
+			text: 'click me' 
+		}
+		]
+	}
 
-// vdom
-{
- tag: 'div',
- props: {
-  name: 'jeskson',
-  style: { color: red },
-  onClick: xx
- }
- children: [
-  {
-   tag: 'a',
-   text: 'click me' 
-  }
- ]
-}
+	<div name="xxx" style="color: red" @click="xx">
+		<a>
+		click me
+		</a>
+	</div>
 
-<div name="xxx" style="color: red" @click="xx">
- <a>
-  click me
- </a>
-</div>
+更新视图
 
+数据修改触发 setter，然后监听器 会 通知 进行修改，通过对比两个 dom 数，得到改变的地方，就是 patch 然后只需要把这些差异修改即可。
 
+Vue2响应式的原理： defineProperty
 
+	<div id="app">
+	<p id="name"></p>
+	</p>
+	<script>
+	var obj = {};
+	Object.defineProperty(obj, 'name', {
+		get function() {
+		return document.querySelector('#name').innerHTMl;
+		},
+		set function(val) {
+		document.querySelector('#name').innerHTML = val
+		}
+	})
+	obj.name = 'webVueBlog';
+	</script>
 
 
 
