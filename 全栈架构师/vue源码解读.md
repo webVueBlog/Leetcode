@@ -83,15 +83,83 @@ Vue2响应式的原理： defineProperty
 	<script>
 	var obj = {};
 	Object.defineProperty(obj, 'name', {
-		get function() {
+		get: function() {
 		return document.querySelector('#name').innerHTMl;
 		},
-		set function(val) {
+		set: function(val) {
 		document.querySelector('#name').innerHTML = val
 		}
 	})
 	obj.name = 'webVueBlog';
 	</script>
+
+数据响应式
+
+class minVue {
+ constructor(options) {
+  this.$options = options;
+  // 数据响应化
+  this.$data = options.data;
+  this.observe(this.$data);
+ }
+ 
+ observe(value) {
+  if (!value || typeof value !== 'object') {
+   return;
+  }
+  
+  // 对象里有多少，遍历get set
+  // 遍历该对象
+  Object.keys(value).forEach(key => {
+   // 数据的响应化函数
+   this.defineReactive(value, key, value[key])
+  })
+ }
+
+ // 数据响应化
+ defineReactive(obj, key, val) {
+  Object.defineProperty(obj, key, {
+   get() {
+    return val;
+   },
+   set(newVal) {
+    if (newVal === val) {
+     return;
+    }
+    val = newVal;
+    console.log(`${key}属性更新了：${val}`);
+   }
+  })
+ }
+}
+
+const app = new minVUe({
+ data: {
+  test: 'i am jeskson',
+  foo: {
+   bar: 'bar' 
+  }
+ }
+});
+
+app.$data.test = 'hello world';
+app.$data.foo.bar = 'abc';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
