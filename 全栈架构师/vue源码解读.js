@@ -1,4 +1,3 @@
-
 // 1. 核心api
 // 2. 组件化思想
 // 3. router-vuex
@@ -105,7 +104,8 @@ class minVue {
 		this.observe(this.$data);
 
 		// 模拟一下watcher创建
-  new Watcher()
+		// new Watcher()
+		new Compile(options.el, this);
 	}
 
 	observe(value) {
@@ -213,22 +213,74 @@ class Watcher {
 }
 
 
+// 1. object -> 依赖 -> 多个监听 依赖watcher
 
+编译compile
 
+// 核心逻辑获取dom，遍历dom，获取{{}} 格式的变量，以及每个 dom 的属性，截获k-和@开头的设置响应式
 
+// 获取dom，遍历子元素，（编译节点），遍历属性 ，at-开头/k-开头 -> 处理textContent 处理input
 
+// 浏览器把不认识的转化
 
+compile // new Compile(el, vm)
 
+class Compile {
+	constructor(el, vm) {
+		// el 可能是选择器
+		// 要遍历的宿主节点
+		this.$el = document.querySelector();
+		this.$vm = vm;
 
+		// 编译
+		if (this.$el) {
+			// 转换内部内容为片段 Fragment
+			this.$fragment = this.node2Fragment(this.$el);
+			// 执行编译
+			this.compile(this.$fragment);
+			// 将编译完的html结果追加至 $el
+			this.$el.appendChild(this.$fragment);
+		}
+	}
 
-
-
-
-
-
-
-
-
-
-
-
+	// 将宿主元素中代码片段拿出来遍历，这样做比较高效
+	node2Fragment(el) {
+		const frag = document.createDocumentFragment();
+		// 将el中所有子元素搬家到frag中
+		let child;
+		while (child = el.firstChild) {
+			frag.appendChild(el.child)
+		}
+		return frag;
+	}
+	// 编译过程
+	compile(el) {
+		const childNodes = el.childNodes;
+		Array(childNodes).forEach(node => {
+			// 类型判断
+			if (this.isElement(node)) {
+				// 元素
+				console.log('编译元素', node.nodeName)
+			} else if (this.isText(node)) {
+				// 文本
+				console.log('编译文本', node.textContent)
+			}
+			
+			// 递归子节点
+			if (node.childNodes && node.childNodes.length > 0) {
+				
+			}
+		})
+	}
+	
+	compileText(node) {
+		console.log(RegExp.$1);
+	}
+	
+	isElement(node) {
+		return node.nodeType === 1;
+	}
+	isText(node) {
+		return node.nodeType === 3;
+	}
+}
