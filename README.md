@@ -26,23 +26,14 @@ https://github.com/webVueBlog/Leetcode
 <details open>
 <summary>展开查看</summary>
 
-- [vue源码解读](./全栈架构师/vue源码解读.js)
-- [webpack原理剖析](./全栈架构师/webpack原理剖析.md)
-- [vue-router前端路由原理剖析](./全栈架构师/vue-router前端路由原理剖析.md)
-- [React16虚拟dom原理剖析](./全栈架构师/React16虚拟dom原理剖析.md)
-- [koa2源码剖析](./全栈架构师/koa2源码剖析.md)
-- [Flutter](./全栈架构师/Flutter.md)
-- [vue组件设计](./全栈架构师/vue组件设计.md)
-- [Taro框架](./全栈架构师/Taro框架.md)
-
-</details>
-
-## weChat
-
-<details open>
-<summary>展开查看</summary>
-
-
+- 33.[vue源码解读](./全栈架构师/vue源码解读.js)
+- 34.[webpack原理剖析](./全栈架构师/webpack原理剖析.md)
+- 35.[vue-router前端路由原理剖析](./全栈架构师/vue-router前端路由原理剖析.md)
+- 36.[React16虚拟dom原理剖析](./全栈架构师/React16虚拟dom原理剖析.md)
+- 37.[koa2源码剖析](./全栈架构师/koa2源码剖析.js)
+- 38.[Flutter](./全栈架构师/Flutter.md)
+- 39.[vue组件设计](./全栈架构师/vue组件设计.md)
+- 40.[Taro框架](./全栈架构师/Taro框架.md)
 
 </details>
 
@@ -83,6 +74,16 @@ https://github.com/webVueBlog/Leetcode
 - 30.[vue-router原理2](./阶段一/vue-router原理2.md)
 - 31.[清除浮动的方式](./阶段一/清除浮动的方式.md)
 - 32.[发布订阅模式](./阶段一/发布订阅模式.js)
+- 41.[闭包和作用域链](./阶段一/闭包和作用域链.js)
+- 42.[前端性能优化](./阶段一/前端性能优化.md)
+
+</details>
+
+## weChat
+
+<details open>
+<summary>展开查看</summary>
+
 
 
 </details>

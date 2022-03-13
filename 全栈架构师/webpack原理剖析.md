@@ -34,6 +34,8 @@ webpack
 4. plugin 对编译完成后的内容进行二度加工
 5. resolve.alias 定义模块的别名
 
+webpack
+
 	module.exports = {
 		entry: './index.js',
 		output: {
@@ -73,7 +75,69 @@ npm install webpack webpack-cli -D
 		}
 	}
 
+1. 读取webpack.config.js
+2. 解析文件依赖
+3. 替换require 为 `__webpack_require__`
+4. 本地使用 {} 存储所有的文件，然后通过使用为 `__webpack_require__` 获取文件内容，执行函数
 
+webpack
+
+	module.exports = {
+		entry: './index.js',
+		output: {
+			path: path.resolve(process.cwd(), 'dist/'),
+			filename: '[name].js'
+		},
+		resolve: {
+			alias: { jquery: 'src/lib/jquery.js', }
+		},
+		plugins: [
+			new webpackNotifierPlugin()
+		],
+		module: {
+			loaders: [{
+				test: /\.js[x]?$/,
+				exclude: /node_moduls/,
+				loader: 'babel-loader'
+			}, {
+				test: /\.less$/,
+				loaders: ['style-loader', 'css-loader', 'less-loader']
+			}, {
+				test: /\.html/,
+				loader: 'html-loader?' + JSON.stringify({minimize: false})
+			}]
+		}
+	};
+
+
+读取入口文件
+
+	class da {
+		constructor(config) {
+			this.config = config
+			// 入口
+			this.entry = config.entry
+			// 工作路径
+			this.root = process.cwd()
+			// 依赖关系
+			this.modules = {}
+		}
+		// 创建模块
+		createModule(modulePath, name) {
+			// modulePath 是绝对路径，获取文件
+			// name 是相对路径，作为key
+			let code = fs.readFileSync(modulePath, 'utf-8')
+			console.log(name, code)
+		}
+		start() {
+			// 创建模块依赖关系
+			console.log('开始啦')
+			const entryPath = path.resolve(this.root, this.entry)
+			this.createModule(entryPath, this.entry)
+		}
+	}
+	const j = new da(config)
+	k.start()
 
 
 
