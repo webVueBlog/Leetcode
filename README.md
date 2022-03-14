@@ -76,6 +76,9 @@ https://github.com/webVueBlog/Leetcode
 - 32.[发布订阅模式](./阶段一/发布订阅模式.js)
 - 41.[闭包和作用域链](./阶段一/闭包和作用域链.js)
 - 42.[前端性能优化](./阶段一/前端性能优化.md)
+- 43.[模块化](./阶段一/模块化.md)
+- 44.[http各版本](./阶段一/http各版本.md)
+- 45.[commonjs和es6.js](./阶段一/commonjs和es6.js)
 
 </details>
 
