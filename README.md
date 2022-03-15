@@ -82,14 +82,6 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## weChat
-
-<details open>
-<summary>展开查看</summary>
-
-
-
-</details>
 
 ## JavaScript
 
@@ -99,140 +91,11 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## CSS
+## other
 
 <details open>
 <summary>展开查看</summary>
 
-
-</details>
-
-
-## HTML
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-
-## Vue
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 算法
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 计算机网络
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 趣味屋
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## Node
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## Typescript
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 性能优化
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 前端安全
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## ES6
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 编程题
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 设计模式
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 工程化
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 计算机基础
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## leetcode
-
-<details open>
-<summary>展开查看</summary>
-
-
-</details>
-
-## 运行代码
-
-<details open>
-<summary>展开查看</summary>
 
 
 </details>
