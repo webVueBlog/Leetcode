@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		1.利用BFC：左侧float，右侧overflow：hidden
+		2.左侧float，右侧margin-left
+		3.父 dispaly：flex 左侧固宽 右侧flex-grow：1
+		4.父 diaplay：table 左右都dispaly：table-cell
+		<div class="container">
+			<div class="left"></div>
+			<div class="right"></div>
+		</div>
+	</body>
+	<style>
+		.container {
+			display: flex;
+			/* display: table; */
+		}
+
+		.container .left {
+			width: 100px;
+			background-color: rgb(250, 12, 12);
+			height: 30px;
+			/* display: table-cell; */
+		}
+
+		.container .right {
+			flex-grow: 1;
+			/* display: table-cell; */
+			background-color: rgb(14, 236, 125);
+		}
+	</style>
+</html>
