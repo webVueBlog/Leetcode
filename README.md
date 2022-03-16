@@ -19,19 +19,11 @@ https://github.com/webVueBlog/Leetcode
 
 首先 感谢 🙏 您的 Star, 模拟面试可以 😌 加我➕vx 和 希望您也可以找到 冴羽 大佬微信加他 加他（我会针对您的个人 👤 年限出题时间为30分钟内，所以请你 把握👌好机会）。最后，一个人可以走的更快，但一群人才能走的更远，和大家一起共勉，多折腾折腾，做一个低调务实优秀的中国好青年
 
-## 全栈架构师
- 
+## JavaScript
+
 <details open>
 <summary>展开查看</summary>
 
-- 33.[vue源码解读](./全栈架构师/vue源码解读.js)
-- 34.[webpack原理剖析](./全栈架构师/webpack原理剖析.md)
-- 35.[vue-router前端路由原理剖析](./全栈架构师/vue-router前端路由原理剖析.md)
-- 36.[React16虚拟dom原理剖析](./全栈架构师/React16虚拟dom原理剖析.md)
-- 37.[koa2源码剖析](./全栈架构师/koa2源码剖析.js)
-- 38.[Flutter](./全栈架构师/Flutter.md)
-- 39.[vue组件设计](./全栈架构师/vue组件设计.md)
-- 40.[Taro框架](./全栈架构师/Taro框架.md) 
 
 </details>
 
@@ -76,25 +68,28 @@ https://github.com/webVueBlog/Leetcode
 - 42.[前端性能优化](./阶段一/前端性能优化.md)
 - 43.[模块化](./阶段一/模块化.md)
 - 44.[http各版本](./阶段一/http各版本.md)
-- 45.[commonjs和es6.js](./阶段一/commonjs和es6.js)
+- 45.[commonjs和es6](./阶段一/commonjs和es6.js)
+- 46.[BFC](./阶段一/BFC.js)
+- 47.[左侧固定右侧自适应](./阶段一/左侧固定右侧自适应.html)
+- 48.[三角形](./阶段一/三角形.html)
+- 49.[vuex核心原理](./阶段一/vuex核心原理.js)
+- 50.[圣杯布局](./阶段一/圣杯布局.html)
 
 </details>
 
-
-## JavaScript
-
+## 全栈架构师
+ 
 <details open>
 <summary>展开查看</summary>
 
-
-</details>
-
-## other
-
-<details open>
-<summary>展开查看</summary>
-
-
+- 33.[vue源码解读](./全栈架构师/vue源码解读.js)
+- 34.[webpack原理剖析](./全栈架构师/webpack原理剖析.md)
+- 35.[vue-router前端路由原理剖析](./全栈架构师/vue-router前端路由原理剖析.md)
+- 36.[React16虚拟dom原理剖析](./全栈架构师/React16虚拟dom原理剖析.js)
+- 37.[koa2源码剖析](./全栈架构师/koa2源码剖析.js)
+- 38.[Flutter](./全栈架构师/Flutter.md)
+- 39.[vue组件设计](./全栈架构师/vue组件设计.md)
+- 40.[Taro框架](./全栈架构师/Taro框架.md) 
 
 </details>
 
