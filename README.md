@@ -95,6 +95,13 @@ https://github.com/webVueBlog/Leetcode
 
 ## Leetcode刷题&amp;答案
 
+- [x] 1.两数之和
+- [x] 2.两数相加
+- [x] 20.有效的括号
+- [x] 21.合并两个有序链表
+- [x] 22.括号生成
+- [x] 24.两两交换链表中的节点
+
 - https://shields.io/
 - [leetcode](https://leetcode-cn.com/problemset/all/)
 
