@@ -19,11 +19,13 @@ https://github.com/webVueBlog/Leetcode
 
 首先 感谢 🙏 您的 Star, 模拟面试可以 😌 加我➕vx 和 希望您也可以找到 冴羽 大佬微信加他 加他（我会针对您的个人 👤 年限出题时间为30分钟内，所以请你 把握👌好机会）。最后，一个人可以走的更快，但一群人才能走的更远，和大家一起共勉，多折腾折腾，做一个低调务实优秀的中国好青年
 
-## JavaScript
+## 阶段二
 
 <details open>
 <summary>展开查看</summary>
 
+- 51.[简述Chome盒模型与IE盒模型的区别](./阶段二/简述Chome盒模型与IE盒模型的区别.md)
+- 52.[行内元素和块级元素都有哪一些](./阶段二/行内元素和块级元素都有哪一些.md)
 
 </details>
 
@@ -95,6 +97,9 @@ https://github.com/webVueBlog/Leetcode
 
 ## Leetcode刷题&amp;答案
 
+<details open>
+<summary>展开查看</summary>
+
 - [x] 1.两数之和
 - [x] 2.两数相加
 - [x] 20.有效的括号
@@ -106,6 +111,8 @@ https://github.com/webVueBlog/Leetcode
 - [x] 49.字母异位词分组
 - [x] 46.全排列
 - [x] 53.最大子序和
+
+</details>
 
 - https://shields.io/
 - [leetcode](https://leetcode-cn.com/problemset/all/)
