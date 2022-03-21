@@ -276,6 +276,10 @@ https://github.com/webVueBlog/Leetcode
 - [x] 49.字母异位词分组
 - [x] 46.全排列
 - [x] 53.最大子序和
+- [x] 56.合并区间
+- [x] 57.插入区间
+- [x] 77.组合
+- [x] 78.子集
 
 </details>
 
