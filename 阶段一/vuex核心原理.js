@@ -51,7 +51,7 @@ class Store {
 let install = (Vue) => {
 	Vue.mixin({
 		beforeCreate() {
-			if (this.$option && this.$option.store) {
+			if (this.$options && this.$options.store) {
 				this.$store = this.$option;
 			} else {
 				this.$store = this.$parent && this.$parent.$store;
