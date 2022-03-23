@@ -52,7 +52,7 @@ let install = (Vue) => {
 	Vue.mixin({
 		beforeCreate() {
 			if (this.$options && this.$options.store) {
-				this.$store = this.$option;
+				this.$store = this.$options;
 			} else {
 				this.$store = this.$parent && this.$parent.$store;
 			}
