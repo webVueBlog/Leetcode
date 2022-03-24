@@ -13,6 +13,10 @@ https://github.com/webVueBlog/Leetcode
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
+## 😵‍💫 阶段七
+
+- 191.[new关键字](./阶段七/new关键字.js)
+
 ## 😇 阶段六
 
 <details open>
