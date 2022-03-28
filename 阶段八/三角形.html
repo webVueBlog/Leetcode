@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+    <style>
+        .rect {
+            width: 0;
+            height: 0;
+            background-color: #fff;
+            border-right: 100px solid rgb(34, 230, 220);
+            border-left: 100px solid rgb(202, 146, 25);
+            border-top: 100px solid rgb(29, 156, 194);
+            border-bottom: 100px solid rgb(16, 204, 101);
+        }
+        
+        .rectd {
+            width: 0;
+            height: 0;
+            background-color: #fff;
+            border-right: 100px solid transparent;
+            border-left: 100px solid transparent;
+            border-top: 100px solid rgb(29, 156, 194);
+            border-bottom: 100px solid transparent;
+        }
+        
+        .rectdt {
+            height: 20px;
+            width: 20px;
+            border-color: #FF9600 #3366ff #12ad2a #f0eb7a;
+            border-style: solid;
+            border-width: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong>browser. Please <a href="#">upgrade your browser</a>to improve your experience.</p><![endif]-->
+    <!-- 宽高设为0，四个边框设置border-width，border-style，border-color即可，如果某个三角要变为透明，设置border-color为transparent -->
+    <!-- 创建一个div，宽高都为0，实现效果如下，发现border的四个边都是一个三角形，要实现三角形只需将其中几个边background设置为transparent，即可得到三角形 -->
+    <div class="rect"></div>
+    <div class="rectd"></div>
+    <div class="rectdt"></div>
+
+    <script src="" async defer></script>
+</body>
+
+</html>
