@@ -13,10 +13,6 @@ https://github.com/webVueBlog/Leetcode
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
-## ☕️ 一杯☕️热饮
-
-<img src="./assets/pay.jpg" width="200"/>
-
 ## 🧑🏻 阶段九
 
 - 251.[元素的alt和title有什么区别](./阶段九/元素的alt和title有什么区别.js)
