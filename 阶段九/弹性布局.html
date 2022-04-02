@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<!-- 使用弹性盒模型可以让元素在不同尺寸终端控制尺寸 -->
+
+<body>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+        
+        body {
+            width: 1970px;
+            height: 1080px;
+        }
+        
+        .container {
+            display: flex;
+            width: 100%;
+            height: 100%;
+            justify-content: space-evenly;
+        }
+        
+        .container .left {
+            border: 1px solid #ddd;
+            min-width: 80px;
+            background-color: red;
+        }
+        
+        .container .right {
+            border: 1px solid #ddd;
+            flex: 1;
+            background-color: blue;
+        }
+    </style>
+    <div class="container">
+        <div class="left"></div>
+        <div class="right"></div>
+    </div>
+</body>
+
+</html>

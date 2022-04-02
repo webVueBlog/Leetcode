@@ -7,13 +7,29 @@ https://github.com/webVueBlog/Leetcode
 
 👤：我是哪吒： 如果你所学的东西 处于喜欢 才会有强大的动力支撑。
 
-## 🐤 交流讨论 && 如何学习 && 转载声明
+## 🐤 交流讨论 && 如何学习 && 转载声明 && 帮忙修正
 
 第一：你可以直接在本仓库阅读即可，阶段性学习。 （可以转载里面的所有知识点用到任何地方，但请添加仓库的地址）有问题欢迎提交[issues](https://github.com/webVueBlog/Leetcode/issues)
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
+## 🧑🏻 阶段十
+
+<details open>
+<summary>展开查看</summary>
+
+- 286.[HTTP工作原理](./阶段十/HTTP工作原理.js)
+- 287.[cookie和session区别](./阶段十/cookie和session区别.js)
+- 288.[get和post的区别](./阶段十/get和post的区别.js)
+- 289.[xss](./阶段十/xss.js)
+- 290.[Symbol 语法](./阶段十/Symbol语法.js)
+
+</details>
+
 ## 🧑🏻 阶段九
+
+<details open>
+<summary>展开查看</summary>
 
 - 251.[元素的alt和title有什么区别](./阶段九/元素的alt和title有什么区别.js)
 - 252.[new](./阶段九/new.js)
@@ -45,6 +61,13 @@ https://github.com/webVueBlog/Leetcode
 - 278.[visibility](./阶段九/visibility.js)
 - 279.[position](./阶段九/position.js)
 - 280.[清除浮动](./阶段九/清除浮动.js)
+- 281.[弹性布局](./阶段九/弹性布局.html)
+- 282.[什么是语义化与新特性](./阶段九/什么是语义化与新特性.js)
+- 283.[cookie和token](./阶段九/cookie和token.js)
+- 284.[cookie是如何工作的](./阶段九/cookie是如何工作的.js)
+- 285.[测试promise例子](./阶段九/测试promise例子.js)
+
+</details>
 
 ## 🧑🏻 阶段八
 
@@ -86,7 +109,6 @@ https://github.com/webVueBlog/Leetcode
 - 248.[style标签写在body前和body后的区别是什么](./阶段八/style标签写在body前和body后的区别是什么.js)
 - 249.[什么是闭包](./阶段八/什么是闭包.js)
 - 250.[返回到顶部的方法有哪些](./阶段八/返回到顶部的方法有哪些.js)
-
 
 </details>
 
