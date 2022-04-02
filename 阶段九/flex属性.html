@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        .father {
+            width: 100%;
+            height: 500px;
+            background-color: aqua;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: row;
+        }
+        
+        .father .children {
+            width: 10%;
+            margin-left: 20px;
+            height: 50px;
+            background-color: blueviolet;
+        }
+        
+        .chilren2 {
+            order: -1;
+        }
+        
+        .chilren6 {
+            flex-grow: 1;
+        }
+        
+        .chilren4 {
+            align-self: flex-end;
+        }
+    </style>
+    <div class="father">
+        <div class="children chilren1">1</div>
+        <div class="children chilren2">2</div>
+        <div class="children chilren3">3</div>
+        <div class="children chilren4">4</div>
+        <div class="children chilren5">5</div>
+        <div class="children chilren6">6</div>
+    </div>
+</body>
+
+</html>
