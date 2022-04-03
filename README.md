@@ -23,6 +23,22 @@ https://github.com/webVueBlog/Leetcode
 - 288.[get和post的区别](./阶段十/get和post的区别.js)
 - 289.[xss](./阶段十/xss.js)
 - 290.[Symbol 语法](./阶段十/Symbol语法.js)
+- 291.[响应式原理](./阶段十/响应式原理.js)
+- 292.[computed和data](./阶段十/computed和data.js)
+- 293.[MVVM](./阶段十/MVVM.js)
+- 294.[路由缓存](./阶段十/路由缓存.js)
+- 295.[v-model的原理](./阶段十/v-model的原理.js)
+- 296.[模版引擎](./阶段十/模版引擎.js)
+- 297.[SEO优化](./阶段十/SEO优化.js)
+- 298.[重置data](./阶段十/重置data.js)
+- 299.[Observable](./阶段十/Observable.js)
+- 300.[this.parent](./阶段十/parent.js)
+- 301.[data和属性名](./阶段十/data和属性名.js)
+- 302.[生命周期](./阶段十/生命周期.js)
+- 303.[SPA单页面](./阶段十/SPA单页面.js)
+- 304.[location.href](./阶段十/location.js)
+- 305.[计算属性和监听器](./阶段十/计算属性和监听器.js)
+- 306.[v-show, v-if](./阶段十/v.js)
 
 </details>
 
