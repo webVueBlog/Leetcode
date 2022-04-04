@@ -13,7 +13,7 @@ https://github.com/webVueBlog/Leetcode
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
-## 🙃 阶段十
+## 🙃 阶段十（306）
 
 <details open>
 <summary>展开查看</summary>
@@ -42,7 +42,7 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## 😍 阶段九
+## 😍 阶段九（285）
 
 <details open>
 <summary>展开查看</summary>
@@ -85,7 +85,7 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## 🧑🏻 阶段八
+## 🧑🏻 阶段八（250）
 
 <details open>
 <summary>展开查看</summary>
@@ -128,7 +128,7 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## 🧑🏻‍💻 阶段七
+## 🧑🏻‍💻 阶段七（215）
 
 <details open>
 <summary>展开查看</summary>
@@ -161,7 +161,7 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## 😇 阶段六
+## 😇 阶段六（190）
 
 <details open>
 <summary>展开查看</summary>
@@ -185,7 +185,7 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## 🧑🏻‍💻 阶段五
+## 🧑🏻‍💻 阶段五（175）
 
 <details open>
 <summary>展开查看</summary>
@@ -218,7 +218,7 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## 🥲 阶段四
+## 🥲 阶段四（150）
 
 <details open>
 <summary>展开查看</summary>
@@ -231,7 +231,7 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## 🧑🏻‍💻 阶段三
+## 🧑🏻‍💻 阶段三（145）
 
 <details open>
 <summary>展开查看</summary>
@@ -284,7 +284,7 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## 🤣 阶段二
+## 🤣 阶段二（100）
 
 <details open>
 <summary>展开查看</summary>
@@ -342,7 +342,7 @@ https://github.com/webVueBlog/Leetcode
 
 </details>
 
-## 🧑🏻‍💻 阶段一
+## 🧑🏻‍💻 阶段一（50）
 
 <details open>
 <summary>展开查看</summary>

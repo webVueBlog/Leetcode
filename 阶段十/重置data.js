@@ -8,7 +8,7 @@ Object.assign(this.$data, this.$options.data())
 // this.$data获取当前状态下的data
 this.$options.data() //获取该组件初始状态下的data。
 
-object.assign(this.$data, this.$options.data())
+Object.assign(this.$data, this.$options.data())
 
 // 初始状态下设置data数据的默认值，重置时直接object.assign(this.$data, this.$options.data())
 
