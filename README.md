@@ -13,6 +13,23 @@ https://github.com/webVueBlog/Leetcode
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
+## 😉 阶段十二（333）
+
+<details open>
+<summary>展开查看</summary>
+
+- 325.[最佳实践](./阶段十二/最佳实践.js)
+- 326.[typeof 操作符](./阶段十二/typeof操作符.js)
+- 327.[Undefined 类型](./阶段十二/Undefined类型.js)
+- 328.[Null 类型](./阶段十二/Null类型.js)
+- 329.[Boolean 类型](./阶段十二/Boolean类型.js)
+- 330.[Number 类型](./阶段十二/Number类型.js)
+- 331.[String 类型](./阶段十二/String类型.js)
+- 332.[Symbol 类型](./阶段十二/Symbol类型.js)
+- 333.[Object 类型](./阶段十二/Object类型.js)
+
+</details>
+
 ## 😉 阶段十一（324）
 
 <details open>
