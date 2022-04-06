@@ -13,7 +13,7 @@ https://github.com/webVueBlog/Leetcode
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
-## 😘 阶段十三（347）
+## 😘 阶段十三（361）
 
 <details open>
 <summary>展开查看</summary>
@@ -25,6 +25,20 @@ https://github.com/webVueBlog/Leetcode
 - 345.[引用计数](./阶段十三/引用计数.js)
 - 346.[性能](./阶段十三/性能.js)
 - 347.[内存管理](./阶段十三/内存管理.js)
+- 348.[基本引用类型](./阶段十三/基本引用类型.js)
+- 349.[Date](./阶段十三/Date.js)
+- 350.[Date继承的方法](./阶段十三/Date继承的方法.js)
+- 351.[Date日期格式化方法](./阶段十三/Date日期格式化方法.js)
+- 352.[Date组件方法](./阶段十三/Date组件方法.js)
+- 353.[RegExp](./阶段十三/RegExp.js)
+- 354.[RegExp实例属性](./阶段十三/RegExp实例属性.js)
+- 355.[RegExp实例方法](./阶段十三/RegExp实例方法.js)
+- 356.[RegExp构造函数属性](./阶段十三/RegExp构造函数属性.js)
+- 357.[RegExp模式局限](./阶段十三/RegExp模式局限.js)
+- 358.[原始值包装类型](./阶段十三/原始值包装类型.js)
+- 359.[Boolean](./阶段十三/Boolean.js)
+- 360.[Number](./阶段十三/Number.js)
+- 361.[String](./阶段十三/String.js)
 
 </details>
 
