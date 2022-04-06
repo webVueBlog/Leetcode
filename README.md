@@ -13,7 +13,7 @@ https://github.com/webVueBlog/Leetcode
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
-## 😘 阶段十三（361）
+## 😘 阶段十三（370）
 
 <details open>
 <summary>展开查看</summary>
@@ -39,6 +39,16 @@ https://github.com/webVueBlog/Leetcode
 - 359.[Boolean](./阶段十三/Boolean.js)
 - 360.[Number](./阶段十三/Number.js)
 - 361.[String](./阶段十三/String.js)
+- 362.[字符串操作方法](./阶段十三/字符串操作方法.js)
+- 363.[字符串包含方法](./阶段十三/字符串包含方法.js)
+- 364.[trim](./阶段十三/trim.js)
+- 365.[repeat](./阶段十三/repeat.js)
+- 366.[padStart()和 padEnd()方法](./阶段十三/方法.js)
+- 367.[字符串迭代与解构](./阶段十三/字符串迭代与解构.js)
+- 368.[字符串模式匹配方法](./阶段十三/字符串模式匹配方法.js)
+- 369.[localeCompare()方法](./阶段十三/localeCompare.js)
+- 370.[ HTML 方法](./阶段十三/HTML.js)
+
 
 </details>
 
@@ -64,6 +74,8 @@ https://github.com/webVueBlog/Leetcode
 - 338.[传递参数](./阶段十二/传递参数.js)
 - 339.[typeof 操作符](./阶段十二/确定类型.js)
 - 340.[执行上下文与作用域](./阶段十二/执行上下文与作用域.js)
+- 341.[Global](./阶段十二/Global.js)
+- 342.[Math](./阶段十二/Math.js)
 
 </details>
 
