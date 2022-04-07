@@ -13,7 +13,11 @@ https://github.com/webVueBlog/Leetcode
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
-## 🦂 阶段十四（）
+## 21 天学习训练营（报名活动）
+
+https://www.yuque.com/jeskson/kqzk8c/lxhl0m
+
+## 🦂 阶段十四（381）
 
 <details open>
 <summary>展开查看</summary>
@@ -27,6 +31,8 @@ https://github.com/webVueBlog/Leetcode
 - 377.[迭代器方法](./阶段十四/迭代器方法.js)
 - 378.[复制和填充方法](./阶段十四/复制和填充方法.js)
 - 379.[Vue Router](./阶段十四/VueRouter.js)
+- 380.[Vue Router入门](./阶段十四/VueRouter入门.js)
+- 381.[带参数的动态路由匹配](./阶段十四/带参数的动态路由匹配.js)
 
 </details>
 
