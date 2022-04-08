@@ -8,6 +8,18 @@
 /**
  * @param {string} s
  * @return {number}
+ * 
+ * abcabcbb
+ * 
+ * i
+ *  j
+ * 
+ * [a,b]
+ * 
+ * {
+ *  a: 1,
+ *  b: 1
+ * }
  */
 var lengthOfLongestSubstring = function(s) {
     let ans = 0;
