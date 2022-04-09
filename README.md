@@ -43,7 +43,7 @@
 - 422.[写一个方法验证是否为中文](./阶段十六/写一个方法验证是否为中文.js)
 - 423.[line-height是如何理解的](./阶段十六/理解.js)
 - 424.[line-input元素中readonly和disabled属性的理解](./阶段十六/input元素中readonly和disabled属性的理解.js)
-- 425.[js放在html的<body>和<head>有什么区别](./阶段十六/js放在html的body和head有什么区别.js)
+- 425.[js放在html的body和head有什么区别](./阶段十六/js放在html的body和head有什么区别.js)
 
 
 </details>
