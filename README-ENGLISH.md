@@ -1,5 +1,4 @@
-
-## 低调务实优秀中国好青年 (简介) && 附加答案
+## Low-key and Pragmatic Excellent Chinese Youth (Profile) && Additional answers
 
 [中文](./README.md) | [English](./README-ENGLISH.md)
 
@@ -7,15 +6,15 @@ https://github.com/webVueBlog/Leetcode
 
 [https://github.com/webVueBlog/Leetcode](https://github.com/webVueBlog/Leetcode)
 
-一个 ☝️ 正经的前端学习 开源 仓库，启发来自 淘宝大佬 @冴羽 ，初心做一个真正能帮助到大家的仓库。（非常口语化的，手写总结）
+A ☝️ serious front-end learning open source warehouse, inspired from Taobao big man @ Hu Yu, the beginning of the heart to do a real help to everyone's warehouse. (Very colloquial, handwritten summary)
 
-👤：我是哪吒： 如果你所学的东西 处于喜欢 才会有强大的动力支撑。
+👤 : I am Ne Zha: What you learn will have strong motivation if you like it.
 
-## 🐤 交流讨论 && 如何学习 && 转载声明 && 帮忙修正
+## 🐤 exchange discussion && how to learn && reprint statement && help correct
 
-第一：你可以直接在本仓库阅读即可，阶段性学习。 （可以转载里面的所有知识点用到任何地方，但请添加仓库的地址）有问题欢迎提交[issues](https://github.com/webVueBlog/Leetcode/issues)
+First: you can read directly in this warehouse, phased learning. (all the knowledge can be reproduced in use anywhere, but please add the address of the warehouse) there is a problem welcome to submit [issues] (https://github.com/webVueBlog/Leetcode/issues)
 
-欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
+Welcome everyone to come to discuss, if you think it is helpful to your study, you are welcome to click Star (this warehouse will be updated on time every day).
 
 ## 🐟 阶段十六（）
 
@@ -621,7 +620,6 @@ https://github.com/webVueBlog/Leetcode
 |  2.  | 两数相加  | <img src="https://img.shields.io/badge/-Medium-orange"> | [两数相加](题库/两数相加.md) |
 |  3.  | 无重复字符的最长子串 | <img src="https://img.shields.io/badge/-Medium-orange"> | [无重复字符的最长子串](题库/无重复字符的最长子串.md) |
 
-以 「早起」、「运动」、「冥想」、「写作」、「阅读」这五件能够快速改变人生的事情为切入点，帮助大家建立良好的生活习惯，技术的成长绝不是一朝一夕，良好的习惯将会帮助我们更快的进步，但在技术之外，我更希望大家能在这些事情的坚持中，收获一份自信，多一份底气，对人生多一份积极。 --- （来源：低调务实优秀中国好青年群）
 
 ## License
 [![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/webVueBlog/interview-answe)
