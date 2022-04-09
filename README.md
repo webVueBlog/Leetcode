@@ -15,7 +15,7 @@
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
-## 🐟 阶段十六（）
+## 🐟 阶段十六（425）
 
 <details open>
 <summary>展开查看</summary>
@@ -33,6 +33,17 @@
 - 412.[CSS sprites的原理和优缺点分别是什么](./阶段十六/sprites.js)
 - 413.[对SVN和GIT的理解和区别](./阶段十六/对SVN和GIT的理解和区别.js)
 - 414.[什么是FOUC？你是如何避免FOUC的？](./阶段十六/什么是FOUC.js)
+- 415.[margin边界叠加是什么及解决方案](./阶段十六/margin边界叠加是什么及解决方案.js)
+- 416.[html中的置换元素和非置换元素的理解](./阶段十六/html中的置换元素和非置换元素的理解.js)
+- 417.[javascript的作用域](./阶段十六/javascript的作用域.js)
+- 418.["attribute"和"property"有什么不同](./阶段十六/有什么不同.js)
+- 419.[HTML元素的显示优先级](./阶段十六/HTML元素的显示优先级.js)
+- 420.[要让Chrome支持小于12px的文字怎么做](./阶段十六/要让Chrome支持小于12px的文字怎么做.js)
+- 421.[重绘和重排](./阶段十六/重绘和重排.js)
+- 422.[写一个方法验证是否为中文](./阶段十六/写一个方法验证是否为中文.js)
+- 423.[line-height是如何理解的](./阶段十六/理解.js)
+- 424.[line-input元素中readonly和disabled属性的理解](./阶段十六/input元素中readonly和disabled属性的理解.js)
+- 425.[js放在html的<body>和<head>有什么区别](./阶段十六/js放在html的body和head有什么区别.js)
 
 
 </details>
