@@ -3,8 +3,6 @@
 
 [中文](./README.md) | [English](./README-ENGLISH.md)
 
-https://github.com/webVueBlog/Leetcode
-
 [https://github.com/webVueBlog/Leetcode](https://github.com/webVueBlog/Leetcode)
 
 一个 ☝️ 正经的前端学习 开源 仓库，启发来自 淘宝大佬 @冴羽 ，初心做一个真正能帮助到大家的仓库。（非常口语化的，手写总结）
