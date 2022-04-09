@@ -13,6 +13,21 @@ https://github.com/webVueBlog/Leetcode
 
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）
 
+## 🐟 阶段十六（）
+
+<details open>
+<summary>展开查看</summary>
+
+- 402.[React安装](./阶段十六/index.html)
+- 403.[npm](./阶段十六/安装.js)
+- 404.[文件夹结构](./阶段十六/文件夹结构.md)
+- 405.[指数运算符 (ES2016)](./阶段十六/指数运算符.md)
+- 406.[Async/await (ES2017)](./阶段十六/Async.js)
+
+
+</details>
+
+
 ## 🦐 阶段十五（401）
 
 <details open>
