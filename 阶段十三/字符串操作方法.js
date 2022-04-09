@@ -16,7 +16,7 @@ concat()方法可以接收任意多个参数，因此可以一次性拼接多个
 
 第一个参数表示子字符串开始的位置，第二个参数表示子字符串结束的位置。
 
-slice() substring()
+slice() substring()       substr()
 对 slice()和 substring()而言，第二个参数是提取结束的位置（即该位置之前的字符会被提取出来）。
 
 substr()而言
