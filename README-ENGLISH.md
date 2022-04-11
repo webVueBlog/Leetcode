@@ -16,6 +16,47 @@ First: you can read directly in this warehouse, phased learning. (all the knowle
 
 Welcome everyone to come to discuss, if you think it is helpful to your study, you are welcome to click Star (this warehouse will be updated on time every day).
 
+## 🐉 阶段十八（450）
+
+<details open>
+<summary>展开查看</summary>
+
+- 441.[react jsx](./阶段十八/jsx.md)
+- 442.[React 组件](./阶段十八/组件.md)
+- 443.[47. 全排列 II](./阶段十八/全排列.md)
+- 444.[692. 前K个高频单词](./阶段十八/高频单词.md)
+- 445.[220. 存在重复元素 III](./阶段十八/存在重复元素.md)
+- 446.[let和const](./阶段十八/let和const.js)
+- 447.[jsx是怎么变成dom的](./阶段十八/jsx是怎么变成dom的.js)
+- 448.[数组的扩展](./阶段十八/数组的扩展.js)
+- 449.[宏任务与微任务](./阶段十八/宏任务与微任务.js)
+- 450.[301与302](./阶段十八/301与302.js)
+
+</details>
+
+## 🐔 阶段十七（440）
+
+<details open>
+<summary>展开查看</summary>
+
+- 426.[说说浏览器解析CSS选择器的过程](./阶段十七/说说浏览器解析CSS选择器的过程.js)
+- 427.[手动实现一个new方法](./阶段十七/手动实现一个new方法.js)
+- 428.[属性data-的理解](./阶段十七/属性data.js)
+- 429.[用过CSS预处理器](./阶段十七/用过CSS预处理器.js)
+- 430.[如何快速让一个数组乱序](./阶段十七/如何快速让一个数组乱序.js)
+- 431.[form标签的enctype属性](./阶段十七/form标签的enctype属性.js)
+- 432.[::before和:after中单冒号和双冒号的区别是什么 这两个伪元素有什么作用](./阶段十七/伪元素.js)
+- 433.[script script async script defer](./阶段十七/script.js)
+- 434.[在页面中的应该使用奇数还是偶数的字体](./阶段十七/在页面中的应该使用奇数还是偶数的字体.js)
+- 435.[写一个判断设备来源的方法](./阶段十七/写一个判断设备来源的方法.js)
+- 436.[GBK和UTF-8](./阶段十七/页面上产生乱码的可能原因.js)
+- 437.[Git的branch及工作流的理解是什么](./阶段十七/Git的branch及工作流的理解是什么.js)
+- 438.[Symbol使用场景](./阶段十七/Symbol使用场景.js)
+- 439.[延长作用域链](./阶段十七/延长作用域链.js)
+- 440.[z-index的理解](./阶段十七/z-index的理解.js)
+
+</details>
+
 ## 🐟 阶段十六（425）
 
 <details open>
