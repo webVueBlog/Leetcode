@@ -14,6 +14,8 @@
  * [ 0]
  * 
  * [ -1, -1, -1, -1, -1, -1, -1, -1]
+ * [ -1, -1, -1, -1]
+ * 
  */
 var nextGreaterElements = function(nums) {
     nums = nums.concat(nums);
