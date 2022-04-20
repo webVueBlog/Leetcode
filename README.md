@@ -33,7 +33,7 @@
 - 541.[139. 单词拆分](./阶段二十六/单词拆分.js)
 - 542.[suspense-and-lazy](./阶段二十六/suspense-and-lazy.js)
 - 543.[日志功能](./阶段二十六/日志功能.js)
-- 544.[用 node 搭建个人博客（三）：token](./阶段二十六/token.js)
+- 544.[token](./阶段二十六/token.js)
 
 </details>
 
