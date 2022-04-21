@@ -17,7 +17,7 @@
 .
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）- vx联系: xiaoda0423
 
-## 😛 阶段二十七（549）
+## 😛 阶段二十七（）
 
 <details open>
 <summary>展开查看</summary>
@@ -27,6 +27,7 @@
 - 547.[202. 快乐数](https://github.com/webVueBlog/Leetcode/issues/10)
 - 548.[142. 环形链表 II](https://github.com/webVueBlog/Leetcode/issues/9)
 - 549.[141. 环形链表](https://github.com/webVueBlog/Leetcode/issues/8)
+- 550.[Node类型-节点关系](./阶段二十七/节点关系.js)
 
 </details>
 
