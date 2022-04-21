@@ -17,6 +17,19 @@
 .
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）- vx联系: xiaoda0423
 
+## 😛 阶段二十七（549）
+
+<details open>
+<summary>展开查看</summary>
+
+- 545.[92. 反转链表 II](https://github.com/webVueBlog/Leetcode/issues/12)
+- 546.[206. 反转链表](https://github.com/webVueBlog/Leetcode/issues/11)
+- 547.[202. 快乐数](https://github.com/webVueBlog/Leetcode/issues/10)
+- 548.[142. 环形链表 II](https://github.com/webVueBlog/Leetcode/issues/9)
+- 549.[141. 环形链表](https://github.com/webVueBlog/Leetcode/issues/8)
+
+</details>
+
 ## 😛 阶段二十六（544）
 
 <details open>
