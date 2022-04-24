@@ -17,6 +17,16 @@
 .
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）- vx联系: xiaoda0423
 
+## 🤨 阶段二十九（573）
+
+<details open>
+<summary>展开查看</summary>
+
+- 573.[全排列II](./js-code/code/全排列II.js)
+
+
+</details>
+
 ## 🤨 阶段二十九（572）
 
 <details open>
