@@ -17,12 +17,37 @@
 .
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star （此仓库每天都会准时更新）- vx联系: xiaoda0423
 
-## 🤨 阶段二十九（573）
+## 🤨 阶段二十九（598）
 
 <details open>
 <summary>展开查看</summary>
 
 - 573.[全排列II](./js-code/code/全排列II.js)
+- 574.[_filter](./js-code/js/_filter.js)
+- 575.[_flat](./js-code/js/_flat.js)
+- 576.[_map](./js-code/js/_map.js)
+- 577.[_push](./js-code/js/_push.js)
+- 578.[ajax](./js-code/js/ajax.js)
+- 579.[apply](./js-code/js/apply.js)
+- 580.[bind](./js-code/js/bind.js)
+- 581.[call](./js-code/js/call.js)
+- 582.[copy](./js-code/js/copy.js)
+- 583.[curry](./js-code/js/curry.js)
+- 584.[dateFormat](./js-code/js/dateFormat.js)
+- 585.[debounce](./js-code/js/debounce.js)
+- 586.[deepcopy](./js-code/js/deepcopy.js)
+- 587.[flatten](./js-code/js/flatten.js)
+- 588.[getType](./js-code/js/getType.js)
+- 589.[instanceof](./js-code/js/instanceof.js)
+- 590.[new](./js-code/js/new.js)
+- 591.[Object.create.js](./js-code/js/Object.create.js)
+- 592.[promise-ajax](./js-code/js/promise-ajax.js)
+- 593.[Promise.all](./js-code/js/Promise.all.js)
+- 594.[promise.js](./js-code/js/promise.js)
+- 595.[Promise.race](./js-code/js/Promise.race.js)
+- 596.[Promise.then](./js-code/js/Promise.then.js)
+- 597.[setArr](./js-code/js/setArr.js)
+- 598.[throttle](./js-code/js/throttle.js)
 
 </details>
 
