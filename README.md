@@ -1,4 +1,11 @@
 
+<div align="center">
+  <img
+    width="200"
+    height="200"
+    src="./assets/leetcode.png"
+  />
+</div>
 ## 低调务实优秀中国好青年 (简介) && 附加答案
 
 [中文](./README.md) | [English](./README-ENGLISH.md)
