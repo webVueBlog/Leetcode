@@ -25,7 +25,7 @@
 
 第一：你可以直接在本仓库阅读即可，阶段性学习。 （可以转载里面的所有知识点用到任何地方，但请添加仓库的地址）有问题欢迎提交[issues](https://github.com/webVueBlog/Leetcode/issues)
 
-## 🤨 阶段二十九（603）
+## 🧐 阶段三十（603）
 
 <details open>
 <summary>展开查看</summary>
@@ -35,10 +35,12 @@
 - 601.[dateFormat](./js-code/js/dateFormat.js)
 - 602.[formatNumber](./js-code/js/formatNumber.js)
 - 603.[repeat](./js-code/js/repeat.js)
+- 604.[Text类型](./阶段三十/Text类型.js)
+
 
 </details>
 
-## 🤨 阶段二十九（598）
+## 🤨 阶段二十九（603）
 
 <details open>
 <summary>展开查看</summary>
