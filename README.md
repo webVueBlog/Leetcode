@@ -36,7 +36,25 @@
 - 602.[formatNumber](./js-code/js/formatNumber.js)
 - 603.[repeat](./js-code/js/repeat.js)
 - 604.[Text类型](./阶段三十/Text类型.js)
-
+- 605.[add](./js-code/js/add.js)
+- 606.[argumentsNum](./js-code/js/argumentsNum.js)
+- 607.[asynclight](./js-code/js/asynclight.js)
+- 608.[callbacklight](./js-code/js/callbacklight.js)
+- 609.[code1](./js-code/js/code1.js)
+- 610.[EventCenter](./js-code/js/EventCenter.js)
+- 611.[expansion-operator](./js-code/js/expansion-operator.js)
+- 612.[extendPrototype](./js-code/js/extendPrototype.js)
+- 613.[fetch-async-await](./js-code/js/fetch-async-await.js)
+- 614.[findMostWord](./js-code/js/findMostWord.js)
+- 615.[likeToArr](./js-code/js/likeToArr.js)
+- 616.[objectToTree](./js-code/js/objectToTree.js)
+- 617.[promiseImg](./js-code/js/promiseImg.js)
+- 618.[promiselight](./js-code/js/promiselight.js)
+- 619.[reduce](./js-code/js/reduce.js)
+- 620.[react_min_setState](./js-code/js/react_min_setState.md)
+- 621.[react_setState](./js-code/js/react_setState.md)
+- 622.[react-props](./js-code/js/react-props.md)
+- 623.[react-props-test](./js-code/js/react-props-test.md)
 
 </details>
 
