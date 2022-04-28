@@ -21,6 +21,10 @@
 
 首先 感谢 🙏 您的 Star, 模拟面试可以 😌 （我会针对您的个人 👤 年限出题时间为30分钟内，所以请你 把握👌好机会）。最后，一个人可以走的更快，但一群人才能走的更远，和大家一起共勉，多折腾折腾，做一个低调务实优秀的中国好青年
 
+## ☕️ 赞助
+
+<img src="./assets/pay.jpg" width="200"/>
+
 ## 地址 ⬇️
 
 [https://github.com/webVueBlog/Leetcode](https://github.com/webVueBlog/Leetcode)
