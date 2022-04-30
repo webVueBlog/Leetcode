@@ -967,9 +967,9 @@
 | :--: | :------:  |
 |1|	[在 JavaScript 中创建对象的可能方式有哪些](https://github.com/webVueBlog/Leetcode/issues/13)|
 |2|	[什么是原型链](https://github.com/webVueBlog/Leetcode/issues/14)|
-|3|	调用、应用和绑定有什么区别|
-|4|	什么是 JSON 及其常用操作|
-|5|	数组切片方法的目的是什么|
+|3|	[调用、应用和绑定有什么区别](https://github.com/webVueBlog/Leetcode/issues/15)|
+|4|	[什么是 JSON 及其常用操作](https://github.com/webVueBlog/Leetcode/issues/16)|
+|5|	[数组切片方法的目的是什么](https://github.com/webVueBlog/Leetcode/issues/17)|
 |6|	数组拼接方法的目的是什么|
 |7|	切片和拼接有什么区别|
 |8|	你如何比较对象和地图|
