@@ -971,8 +971,8 @@
 |4|	[什么是 JSON 及其常用操作](https://github.com/webVueBlog/Leetcode/issues/16)|
 |5|	[数组切片方法的目的是什么](https://github.com/webVueBlog/Leetcode/issues/17)|
 |6|	[数组拼接方法的目的是什么](https://github.com/webVueBlog/Leetcode/issues/18)|
-|7|	[切片和拼接有什么区别]|
-|8|	[你如何比较对象和地图]|
+|7|	[切片和拼接有什么区别](https://github.com/webVueBlog/Leetcode/issues/19)|
+|8|	[你如何比较Object和Map](https://github.com/webVueBlog/Leetcode/issues/20)|
 |9|	[== 和 === 运算符有什么区别]|
 |10|	[什么是 lambda 或箭头函数]|
 |11|	[什么是一级函数]|
