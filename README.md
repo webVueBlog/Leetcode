@@ -979,10 +979,10 @@
 |12|	[什么是一阶函数](https://github.com/webVueBlog/Leetcode/issues/24)|
 |13|	[什么是高阶函数](https://github.com/webVueBlog/Leetcode/issues/25)|
 |14|	[什么是一元函数](https://github.com/webVueBlog/Leetcode/issues/26)|
-|15|	[什么是柯里化函数]()|
-|16|	[什么是纯函数]()|
-|17|	[let 关键字的作用是什么]()|
-|18|	[let 和 var 有什么区别]()|
+|15|	[什么是柯里化函数](https://github.com/webVueBlog/Leetcode/issues/27)|
+|16|	[什么是纯函数](https://github.com/webVueBlog/Leetcode/issues/28)|
+|17|	[let 关键字的作用是什么](https://github.com/webVueBlog/Leetcode/issues/29)|
+|18|	[let 和 var 有什么区别](https://github.com/webVueBlog/Leetcode/issues/30)|
 |19|	[选择名称let作为关键字的原因是什么]()|
 |20|	[如何在 switch 块中重新声明变量而不会出错]()|
 |21|	[什么是时间死区]()|
