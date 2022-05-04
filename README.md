@@ -984,7 +984,7 @@
 |17|	[let 关键字的作用是什么](https://github.com/webVueBlog/Leetcode/issues/29)|
 |18|	[let 和 var 有什么区别](https://github.com/webVueBlog/Leetcode/issues/30)|
 |19|	[选择名称let作为关键字的原因是什么](https://github.com/webVueBlog/Leetcode/issues/31)|
-|20|	[如何在 switch 块中重新声明变量而不会出错]()|
+|20|	[如何在 switch 块中重新声明变量而不会出错](https://github.com/webVueBlog/Leetcode/issues/32)|
 |21|	[什么是时间死区]()|
 |22|	[什么是 IIFE（立即调用函数表达式）]()|
 |23|	[您如何在 JavaScript 中解码或编码 URL]()|
