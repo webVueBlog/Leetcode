@@ -16,16 +16,103 @@ First: you can read directly in this warehouse, phased learning. (all the knowle
 
 Welcome everyone to come to discuss, if you think it is helpful to your study, you are welcome to click Star (this warehouse will be updated on time every day).
 
-## 🤨 阶段二十九（573）
+
+## 👇 阶段三十二（668）
 
 <details open>
 <summary>展开查看</summary>
 
-- 573.[全排列II](./js-code/code/全排列II.js)
+- 649.[code1](./阶段三十二/code1.js)
+- 650.[code2](./阶段三十二/code2.js)
+- 651.[code3](./阶段三十二/code3.js)
+- 652.[code4](./阶段三十二/code4.js)
+- 653.[code5](./阶段三十二/code5.js)
+- 654.[code6](./阶段三十二/code6.js)
+- 655.[code7](./阶段三十二/code7.js)
+- 656.[code8](./阶段三十二/code8.js)
+- 657.[code9](./阶段三十二/code9.js)
+- 658.[code10](./阶段三十二/code10.js)
+- 659.[code11](./阶段三十二/code11.js)
+- 660.[code12](./阶段三十二/code12.js)
+- 661.[code13](./阶段三十二/code13.js)
+- 662.[code14](./阶段三十二/code14.js)
+- 663.[code15](./阶段三十二/code15.js)
+- 664.[code16](./阶段三十二/code16.js)
+- 665.[code17](./阶段三十二/code17.js)
+- 666.[code18](./阶段三十二/code18.js)
+- 667.[code19](./阶段三十二/code19.js)
+- 668.[code20](./阶段三十二/code20.js)
 
 </details>
 
-## 🤨 阶段二十九（572）
+
+## 🐂 阶段三十一（648）
+
+<details open>
+<summary>展开查看</summary>
+
+- 624.[220.存在重复元素III](./js-code/code/存在重复元素III.js)
+- 625.[compare_react_life](./阶段三十一/compare_react_life.md)
+- 626.[creat_react_app](./阶段三十一/creat_react_app.md)
+- 627.[higher_order_fn](./阶段三十一/higher_order_fn.md)
+- 628.[jsonp](./阶段三十一/jsonp.js)
+- 629.[Object.defineProperty](./阶段三十一/Object.defineProperty.js)
+- 630.[react_component](./阶段三十一/react_component.md)
+- 631.[react_createRef](./阶段三十一/react_createRef.md)
+- 632.[react_domdiffing](./阶段三十一/react_domdiffing.md)
+- 633.[react_eventhandler](./阶段三十一/react_eventhandler.md)
+- 634.[react_life_cycle](./阶段三十一/react_life_cycle.md)
+- 635.[react_lift_process](./阶段三十一/react_lift_process.md)
+- 636.[Route](./阶段三十一/Route.js)
+- 637.[setTimeoutTosetInterval](./阶段三十一/setTimeoutTosetInterval.js)
+- 638.[react](./阶段三十一/react.js)
+- 639.[code1](./阶段三十一/code1.js)
+- 640.[code2](./阶段三十一/code2.js)
+- 641.[code3](./阶段三十一/code3.js)
+- 642.[code4](./阶段三十一/code4.js)
+- 643.[code5](./阶段三十一/code5.js)
+- 644.[code6](./阶段三十一/code6.js)
+- 645.[code7](./阶段三十一/code7.js)
+- 646.[code8](./阶段三十一/code8.js)
+- 647.[code9](./阶段三十一/code9.js)
+- 648.[code10](./阶段三十一/code10.js)
+
+</details>
+
+## 🐂 阶段三十（623）
+
+<details open>
+<summary>展开查看</summary>
+
+- 599.[前K个高频单词](./js-code/code/前K个高频单词.js)
+- 600.[_reverse](./js-code/js/_reverse.js)
+- 601.[dateFormat](./js-code/js/dateFormat.js)
+- 602.[formatNumber](./js-code/js/formatNumber.js)
+- 603.[repeat](./js-code/js/repeat.js)
+- 604.[Text类型](./阶段三十/Text类型.js)
+- 605.[add](./js-code/js/add.js)
+- 606.[argumentsNum](./js-code/js/argumentsNum.js)
+- 607.[asynclight](./js-code/js/asynclight.js)
+- 608.[callbacklight](./js-code/js/callbacklight.js)
+- 609.[code1](./js-code/js/code1.js)
+- 610.[EventCenter](./js-code/js/EventCenter.js)
+- 611.[expansion-operator](./js-code/js/expansion-operator.js)
+- 612.[extendPrototype](./js-code/js/extendPrototype.js)
+- 613.[fetch-async-await](./js-code/js/fetch-async-await.js)
+- 614.[findMostWord](./js-code/js/findMostWord.js)
+- 615.[likeToArr](./js-code/js/likeToArr.js)
+- 616.[objectToTree](./js-code/js/objectToTree.js)
+- 617.[promiseImg](./js-code/js/promiseImg.js)
+- 618.[promiselight](./js-code/js/promiselight.js)
+- 619.[reduce](./js-code/js/reduce.js)
+- 620.[react_min_setState](./js-code/js/react_min_setState.md)
+- 621.[react_setState](./js-code/js/react_setState.md)
+- 622.[react-props](./js-code/js/react-props.md)
+- 623.[react-props-test](./js-code/js/react-props-test.md)
+
+</details>
+
+## 🤨 阶段二十九（598）
 
 <details open>
 <summary>展开查看</summary>
@@ -37,6 +124,32 @@ Welcome everyone to come to discuss, if you think it is helpful to your study, y
 - 570.[最长递增子序列](./js-code/code/最长递增子序列.js)
 - 571.[最长连续递增序列](./js-code/code/最长连续递增序列.js)
 - 572.[字符串相乘](./js-code/code/字符串相乘.js)
+- 573.[全排列II](./js-code/code/全排列II.js)
+- 574.[_filter](./js-code/js/_filter.js)
+- 575.[_flat](./js-code/js/_flat.js)
+- 576.[_map](./js-code/js/_map.js)
+- 577.[_push](./js-code/js/_push.js)
+- 578.[ajax](./js-code/js/ajax.js)
+- 579.[apply](./js-code/js/apply.js)
+- 580.[bind](./js-code/js/bind.js)
+- 581.[call](./js-code/js/call.js)
+- 582.[copy](./js-code/js/copy.js)
+- 583.[curry](./js-code/js/curry.js)
+- 584.[dateFormat](./js-code/js/dateFormat.js)
+- 585.[debounce](./js-code/js/debounce.js)
+- 586.[deepcopy](./js-code/js/deepcopy.js)
+- 587.[flatten](./js-code/js/flatten.js)
+- 588.[getType](./js-code/js/getType.js)
+- 589.[instanceof](./js-code/js/instanceof.js)
+- 590.[new](./js-code/js/new.js)
+- 591.[Object.create.js](./js-code/js/Object.create.js)
+- 592.[promise-ajax](./js-code/js/promise-ajax.js)
+- 593.[Promise.all](./js-code/js/Promise.all.js)
+- 594.[promise.js](./js-code/js/promise.js)
+- 595.[Promise.race](./js-code/js/Promise.race.js)
+- 596.[Promise.then](./js-code/js/Promise.then.js)
+- 597.[setArr](./js-code/js/setArr.js)
+- 598.[throttle](./js-code/js/throttle.js)
 
 </details>
 
