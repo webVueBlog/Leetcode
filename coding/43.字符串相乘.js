@@ -10,7 +10,7 @@
  * @param {string} num2
  * @return {string}
      1 2 3
-     4 5 6
+     4 5 6 i
   --------
      7 3 8
    6 1 5 0
@@ -19,10 +19,51 @@
  5 7 0 8 8
 
  进位: 1
+
+ 123 * 456 =>
+ (123*4 2个0) + （123*5 1个0）+（123*6 0个0）
  */
 var multiply = function(num1, num2) {
-
+    let len2 = num2.length;
+    let sum = [];
+    for (let i = len2 - 1; i >= 0; i--) {
+        let fill = len2 - i - 1;
+        let product = multi(num1, num2[i], fill);
+        sum.push(product);
+    }
+    let result = sum.reduce((prev, next) => {
+        return addStrings(prev, next)
+    });
+    while (result.length > 1 && result[0] === '0') {
+        result = result.slice(1);
+    }
+    return result;
 };
+
+function multi(n1, n2, fill) {
+    fill = fill >= 0 ? fill : 0;
+    let carry = 0;
+    let result = '';
+    let i = n1.length - 1;
+    while (i >= 0) {
+        let curr = n1[i];
+        let product = Number(curr) * Number(n2) + carry;
+        if (product >= 10) {
+            let strPro = String(product);
+            carry = strPro[0] * 1;
+            result = strPro[1] + result;
+        } else {
+            carry = 0;
+            result = product + result;
+        }
+        i--;
+    }
+    if (carry !== 0) {
+        result = carry + result;
+    }
+    return result + '0'.repeat(fill);
+}
+
 var addStrings = function(num1, num2) {
     let len1 = num1.length;
     let len2 = num2.length;
