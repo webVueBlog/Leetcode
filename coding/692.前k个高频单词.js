@@ -102,15 +102,38 @@ class Heap {
     }
 }
 var topKFrequent = function(words, k) {
-    let map = {};
-    words.forEach(word => {
-        map[word] = map[word] === undefined ? 1 : map[word] + 1;
-    });
-    let heap = new Heap(k, map);
-    let wordList = Object.keys(map);
-    for (let i = 0; i < wordList.length; i++) {
-        heap.add(wordList[i]);
+    let hash = {};
+    for (let word of words) {
+        hash[word] = hash[word] + 1 || 1;
     }
-    return heap.result;
+    let result = Object.keys(hash).sort((a, b) => {
+        let countCompare = hash[b] - hash[a];
+        if (countCompare == 0) return a.localeCompare(b)
+        else return countCompare;
+    });
+    return result.slice(0, k);
 };
+
+// var topKFrequent = function(words, k) {
+//     const map = {}
+
+//     words.forEach(word => map[word] ? map[word]++ : map[word] = 1)
+
+//     return Object.keys(map)
+//         .sort((a, b) => map[a] === map[b] ? (a > b ? 1 : -1) : map[b] - map[a])
+//         .slice(0, k);
+// };
 // @lc code=end
+
+// var topKFrequent = function(words, k) {
+//     let map = {};
+//     words.forEach(word => {
+//         map[word] = map[word] === undefined ? 1 : map[word] + 1;
+//     });
+//     let heap = new Heap(k, map);
+//     let wordList = Object.keys(map);
+//     for (let i = 0; i < wordList.length; i++) {
+//         heap.add(wordList[i]);
+//     }
+//     return heap.result;
+// };
