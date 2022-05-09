@@ -17,6 +17,54 @@ First: you can read directly in this warehouse, phased learning. (all the knowle
 Welcome everyone to come to discuss, if you think it is helpful to your study, you are welcome to click Star (this warehouse will be updated on time every day).
 
 
+## ⭐ 阶段三十四（699）
+
+<details open>
+<summary>展开查看</summary>
+
+- 691.[code1](./阶段三十四/code1.js)
+- 692.[code2](./阶段三十四/code2.js)
+- 693.[code3](./阶段三十四/code3.js)
+- 694.[code4](./阶段三十四/code4.js)
+- 695.[code5](./阶段三十四/code5.js)
+- 696.[code6](./阶段三十四/code6.js)
+- 697.[code7](./阶段三十四/code7.js)
+- 698.[code8](./阶段三十四/code8.js)
+- 699.[globalThis](./阶段三十四/globalThis.js)
+
+
+</details>
+
+## 🌙 阶段三十三（690）
+
+<details open>
+<summary>展开查看</summary>
+
+- 669.[code21](./阶段三十三/code21.js)
+- 670.[code22](./阶段三十三/code22.js)
+- 671.[code23](./阶段三十三/code23.js)
+- 672.[code24](./阶段三十三/code24.js)
+- 673.[code25](./阶段三十三/code25.js)
+- 674.[code26](./阶段三十三/code26.js)
+- 675.[code27](./阶段三十三/code27.js)
+- 676.[this1](./阶段三十三/this1.js)
+- 677.[this2](./阶段三十三/this2.js)
+- 678.[this3](./阶段三十三/this3.js)
+- 679.[this4](./阶段三十三/this4.js)
+- 680.[this5](./阶段三十三/this5.js)
+- 681.[this6](./阶段三十三/this6.js)
+- 682.[this7](./阶段三十三/this7.js)
+- 683.[this8](./阶段三十三/this8.js)
+- 684.[this9](./阶段三十三/this9.js)
+- 685.[this10](./阶段三十三/this10.js)
+- 686.[this11](./阶段三十三/this11.js)
+- 687.[this12](./阶段三十三/this12.js)
+- 688.[this13](./阶段三十三/this13.js)
+- 689.[this14](./阶段三十三/this14.js)
+- 690.[this15](./阶段三十三/this15.js)
+
+</details>
+
 ## 👇 阶段三十二（668）
 
 <details open>
