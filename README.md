@@ -1,12 +1,3 @@
-
-<div align="center">
-  <img
-    width="200"
-    height="200"
-    src="./assets/leetcode.png"
-  />
-</div>
-
 ## 正经的前端学习
 
 [中文](./README.md) | [English](./README-ENGLISH.md)
