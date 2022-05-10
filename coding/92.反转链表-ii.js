@@ -26,7 +26,7 @@
     cur = cur.next;
     i++;
    }
-   let pre = null, tail = cur; // tail截尾
+   let prev = null, tail = cur; // tail截尾
    while(i <= right) {
     let next = cur.next;
     cur.next = prev;
@@ -34,7 +34,7 @@
     cur = next;
     i++;
    }
-   start.next = prv;
+   start.next = prev;
    tail.next = cur;
    return left == 1 ? prev : head;
   };
