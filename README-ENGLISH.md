@@ -17,7 +17,7 @@ First: you can read directly in this warehouse, phased learning. (all the knowle
 Welcome everyone to come to discuss, if you think it is helpful to your study, you are welcome to click Star (this warehouse will be updated on time every day).
 
 
-## ⭐ 阶段三十四（699）
+## ⭐ 阶段三十四（700）
 
 <details open>
 <summary>展开查看</summary>
@@ -31,7 +31,7 @@ Welcome everyone to come to discuss, if you think it is helpful to your study, y
 - 697.[code7](./阶段三十四/code7.js)
 - 698.[code8](./阶段三十四/code8.js)
 - 699.[globalThis](./阶段三十四/globalThis.js)
-
+- 700.[手写promise](./阶段三十四/手写promise.md)
 
 </details>
 
