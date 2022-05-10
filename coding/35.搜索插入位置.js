@@ -30,6 +30,7 @@ nums 为 无重复元素 的 升序 排列数组
 输入: nums = [1,3,5,6], target = 7
 输出: 4
 
+ (52 ms)
  */
 var searchInsert = function(nums, target) {
  return binarySearch(nums, target, 0, nums.length - 1);
