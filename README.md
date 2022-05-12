@@ -36,7 +36,7 @@
 
 第一：你可以直接在本仓库阅读即可，**阶段性学习**。 （可以转载里面的所有知识点用到任何地方，但请添加仓库的地址）有问题欢迎提交[issues](https://github.com/webVueBlog/Leetcode/issues)
 
-## ⭐ 阶段三十四（700）
+## ⭐ 阶段三十四（705）
 
 <details open>
 <summary>展开查看</summary>
@@ -51,6 +51,12 @@
 - 698.[code8](./阶段三十四/code8.js)
 - 699.[globalThis](./阶段三十四/globalThis.js)
 - 700.[手写promise](./阶段三十四/手写promise.md)
+- 701.[react_spa](./阶段三十四/react_spa.md)
+- 702.[react_路由](./阶段三十四/react_路由.md)
+- 703.[react_原理](./阶段三十四/react_原理.md)
+- 704.[react_路由的基本使用](./阶段三十四/react_路由的基本使用.md)
+- 705.[react_路由组件与一般组件](./阶段三十四/react_路由组件与一般组件.md)
+
 
 </details>
 
@@ -1058,7 +1064,7 @@
 |20|	[如何在 switch 块中重新声明变量而不会出错](https://github.com/webVueBlog/Leetcode/issues/32)|
 |21|	[什么是暂时性死区](https://github.com/webVueBlog/Leetcode/issues/33)|
 |22|	[什么是 IIFE（立即调用函数表达式）](https://github.com/webVueBlog/Leetcode/issues/34)|
-|23|	[您如何在 JavaScript 中解码或编码 URL]()|
+|23|	[您如何在 JavaScript 中解码或编码 URL](https://github.com/webVueBlog/Leetcode/issues/35)|
 |24|	[什么是备忘]()|
 |25|	[什么是吊装]()|
 |26|	[ES6 中的类是什么]()|
