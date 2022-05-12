@@ -21,7 +21,7 @@
 输入: [4,1,2,1,2]
 输出: 4
 
-(72 ms)
+(56 ms)
  */
 var singleNumber = function(nums) {
     return nums.reduce((prev, curr) => prev ^ curr);

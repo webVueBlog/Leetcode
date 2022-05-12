@@ -58,8 +58,7 @@ listB 中节点数目为 n
 如果 listA 和 listB 没有交点，intersectVal 为 0
 如果 listA 和 listB 有交点，intersectVal == listA[skipA] == listB[skipB]
 
-(80 ms)
-
+(76 ms)
  */
 var getIntersectionNode = function(headA, headB) {
     let a = headA,
