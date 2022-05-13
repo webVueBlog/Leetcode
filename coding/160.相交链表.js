@@ -61,12 +61,15 @@ listB 中节点数目为 n
 (76 ms)
  */
 var getIntersectionNode = function(headA, headB) {
-    let a = headA,
-        b = headB
-    while (a !== b) {
-        a = !a ? headB : a.next;
-        b = !b ? headA : b.next;
+    // 临时链表 a 临时链表 b
+    let a = headA, b = headB
+    while(a !==b ) {
+        // 当 a b 不相等进入循环
+        // a存在，走一步
+        a = !a ? headB : a.next
+        b = !b ? headA : b.next
     }
+    // 返回相交的链表
     return a
 };
 // @lc code=end

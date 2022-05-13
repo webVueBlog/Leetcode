@@ -27,15 +27,18 @@
 输入：head = []
 输出：[]
 
- (68 ms)
+(60 ms)
  */
 var reverseList = function(head) {
+    // 创建一个空null节点，设置当前节点
     let [prev, current] = [null, head]
     while(current) {
+        // 当前节点存在，反转
         [current.next, prev, current] = [prev, current, current.next]
     }
     return prev
 };
+
 
 // var reverseList = function(head) {
 //     if (!head) return null;

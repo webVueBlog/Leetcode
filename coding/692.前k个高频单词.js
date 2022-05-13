@@ -15,7 +15,22 @@
          2(0)
    1(0)        5(2)        root: i   left: 2*i + 1   right: 2*i + 2
  6(3) 3(4) 25(5) 30(6)     Math.floor((n-1)/2) => root 索引
+
+ (76 ms)
  */
+
+ var topKFrequent = function(words, k) {
+    let hash = {};
+    for (let word of words) {
+        hash[word] = hash[word] + 1 || 1;
+    }
+    let result = Object.keys(hash).sort((a, b) => {
+        let countCompare = hash[b] - hash[a];
+        if (countCompare == 0) return a.localeCompare(b)
+        else return countCompare;
+    });
+    return result.slice(0, k);
+};
 class Heap {
     constructor(n, map) {
         this.arr = [];
@@ -101,18 +116,7 @@ class Heap {
         return this.arr;
     }
 }
-var topKFrequent = function(words, k) {
-    let hash = {};
-    for (let word of words) {
-        hash[word] = hash[word] + 1 || 1;
-    }
-    let result = Object.keys(hash).sort((a, b) => {
-        let countCompare = hash[b] - hash[a];
-        if (countCompare == 0) return a.localeCompare(b)
-        else return countCompare;
-    });
-    return result.slice(0, k);
-};
+
 
 // var topKFrequent = function(words, k) {
 //     const map = {}
