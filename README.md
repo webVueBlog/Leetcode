@@ -10,6 +10,7 @@
 
 - 正经的前端学习（714）
 - 深入理解JS核心技术（在更）
+- 深入手写JS原生API（在更）
 
 ## 😃 对自己的寄语
 
@@ -37,6 +38,10 @@
 ## 🐤 交流讨论 && 如何学习 && 转载声明 && 帮忙修正以及补充
 
 第一：你可以直接在本仓库阅读即可，**阶段性学习**。 （可以转载里面的所有知识点用到任何地方，但请添加仓库的地址）有问题欢迎提交[issues](https://github.com/webVueBlog/Leetcode/issues)
+
+## 深入手写JS原生API
+
+- [【深入手写JS原生API】1.手写call和apply](https://github.com/webVueBlog/Leetcode/issues/36)
 
 ## 深入理解JS核心技术
 
@@ -155,7 +160,7 @@
 
 </details>
 
-## ⭐ 阶段三十四（714）
+## ⭐ 阶段三十四（715）
 
 <details open>
 <summary>展开查看</summary>
@@ -184,6 +189,7 @@
 - 712.[react_BrowserRouter_HashRouter](./阶段三十四/react_BrowserRouter_HashRouter.md)
 - 713.[react_ant](./阶段三十四/react_ant.md)
 - 714.[react_redux](./阶段三十四/react_redux.md)
+- 715.[react_redux](./阶段三十四/react_redux.md)
 
 </details>
 
