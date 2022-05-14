@@ -40,9 +40,6 @@
 
 ## 深入理解JS核心技术
 
-<details>
-<summary>展开查看</summary>
-
 | Number | Title |
 | :--: | :------:  |
 |1|	[在 JavaScript 中创建对象的可能方式有哪些](https://github.com/webVueBlog/Leetcode/issues/13)|
@@ -158,7 +155,7 @@
 
 </details>
 
-## ⭐ 阶段三十四（712）
+## ⭐ 阶段三十四（714）
 
 <details open>
 <summary>展开查看</summary>
@@ -185,7 +182,8 @@
 - 710.[react_嵌套路由](./阶段三十四/react_嵌套路由.md)
 - 711.[react_push_replace](./阶段三十四/react_push_replace.md)
 - 712.[react_BrowserRouter_HashRouter](./阶段三十四/react_BrowserRouter_HashRouter.md)
-
+- 713.[react_ant](./阶段三十四/react_ant.md)
+- 714.[react_redux](./阶段三十四/react_redux.md)
 
 </details>
 
@@ -217,7 +215,6 @@
 - 689.[this14](./阶段三十三/this14.js)
 - 690.[this15](./阶段三十三/this15.js)
 
-</details>
 
 ## 👇 阶段三十二（668）
 
