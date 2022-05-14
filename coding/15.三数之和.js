@@ -22,35 +22,81 @@
 输入：nums = [-1,0,1,2,-1,-4]
 输出：[[-1,-1,2],[-1,0,1]]
 
+排序有序数组：[-4, -1, -1, 0, 1, 2]
+遍历循环i指针
+
+[-4, -1, -1, 0, 1, 2]
+  i
+      l
+                   r
+sum = -3
+
+去重：
+l = l + 1
+r = r - 1
+i = i + 1
+
 (128 ms)
  */
+// (140 ms)
 var threeSum = function(nums) {
- const results = []
- if(nums.length < 3) return results
- nums = nums.sort((a,b) => a - b);
- let target = 0;
- for(let i = 0; i < nums.length - 2; i++) {
-  if(nums[i] > target) break
-  if(i > 0 && nums[i] === nums[i - 1]) continue
-  let j = i + 1
-  let k = nums.length - 1
-  while(j < k) {
-   let sum = nums[i] + nums[j] + nums[k]
-   if(sum === target) {
-    results.push([nums[i], nums[j], nums[k]])
-    while(nums[j] === nums[j+1]) j++
-    while(nums[k] === nums[k-1]) k--
-    j++
-    k--
-   } else if(sum < target) {
-    j++
-   } else {
-    k--
-   }
-  }
- }
- return results
+    nums.sort((a, b) => a - b);
+    const ans = [];
+    const n = nums.length;
+    for (let i = 0; i < n; i++) {
+        const first = nums[i];
+        if (nums[i] === nums[i - 1]) {
+            continue;
+        }
+        let l = i + 1,
+            r = n - 1;
+        while (l < r) {
+            const sum = first + nums[l] + nums[r];
+            if (sum > 0) {
+                while (l < r && nums[r - 1] === nums[r]) r--;
+                r--;
+            } else if (sum < 0) {
+                while (l < r && nums[l + 1] === nums[l]) l++;
+                l++;
+            } else {
+                ans.push([first, nums[l], nums[r]]);
+                while (l < r && nums[l + 1] === nums[l]) l++;
+                while (l < r && nums[r - 1] === nums[r]) r--;
+                l++;
+                r--;
+            }
+        }
+    }
+    return ans;
 }
+
+// var threeSum = function(nums) {
+//     const results = []
+//     if (nums.length < 3) return results
+//     nums = nums.sort((a, b) => a - b);
+//     let target = 0;
+//     for (let i = 0; i < nums.length - 2; i++) {
+//         if (nums[i] > target) break
+//         if (i > 0 && nums[i] === nums[i - 1]) continue
+//         let j = i + 1
+//         let k = nums.length - 1
+//         while (j < k) {
+//             let sum = nums[i] + nums[j] + nums[k]
+//             if (sum === target) {
+//                 results.push([nums[i], nums[j], nums[k]])
+//                 while (nums[j] === nums[j + 1]) j++
+//                     while (nums[k] === nums[k - 1]) k--
+//                         j++
+//                         k--
+//             } else if (sum < target) {
+//                 j++
+//             } else {
+//                 k--
+//             }
+//         }
+//     }
+//     return results
+// }
 
 // var threeSum = function(nums) {
 //  const results = []
