@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script crossorigin="anonymous" integrity="sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==" src="https://lib.baomitu.com/jquery/3.6.0/jquery.js"></script>
+	</head>
+	<body>
+		<div>
+			上传文件 ： <input type="file" name="file" id="fileId" />
+			<button type="submit" name="btn" value="提交" id="btnId" onclick="check()" /> 提交
+		</div>
+		<script type="text/javascript">
+			function check() {
+				var objFile = document.getElementById("fileId");
+				if (objFile.value == "") {
+					alert("不能空")
+				}
+				// 获取文件
+				const files = objFile.files
+				const reader = new FileReader
+				// 读取文件
+				reader.readAsText(files[0], "UTF-8")
+				reader.onload = function(e) {
+					const fileString = e.target.result
+					console.log(fileString)
+				}
+				// console.log(objFile.files[0].size); // 文件字节数
+				// var files = $('#fileId').prop('files'); //获取到文件列表
+				// if (files.length == 0) {
+				// 	alert('请选择文件');
+				// } else {
+				// 	var reader = new FileReader(); //新建一个FileReader
+				// 	reader.readAsText(files[0], "UTF-8"); //读取文件 
+				// 	reader.onload = function(evt) { //读取完文件之后会回来这里 这是个异步
+				// 		var fileString = evt.target.result; // 读取文件内容
+				// 		console.log('fileString', fileString)
+				// 	}
+				// }
+			}
+		</script>
+	</body>
+</html>
