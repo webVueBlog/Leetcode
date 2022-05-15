@@ -36,12 +36,10 @@
 解释：指定链表中值为 1 的第三个节点，那么在调用了你的函数之后，该链表应变为 4 -> 5 -> 9
 
  (64 ms)
+ (60 ms)
  */
 var deleteNode = function(node) {
- //复制下一个节点的val到当前节点
- //删除下一个节点
- node.val = node.next.val
- node.next = node.next.next
+    node.val = node.next.val
+    node.next = node.next.next
 };
 // @lc code=end
-

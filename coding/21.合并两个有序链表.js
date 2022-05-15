@@ -30,24 +30,22 @@
 输入：l1 = [], l2 = [0]
 输出：[0]
 
- (72 ms)
+(68 ms)
  */
 var mergeTwoLists = function(l1, l2) {
- var mergedHead = { val: -1, next: null },
-  crt = mergedHead;
- while(l1 && l2) {
-  if(l1.val > l2.val) {
-   // 因为l1大 l2.val l1.val
-   crt.next = l2;
-   l2 = l2.next;
-  } else {
-   crt.next = l1;
-   l1 = l1.next;
-  }
-  crt = crt.next;
- }
- crt.next = l1 || l2;
- return mergedHead.next;
+    var mergedHead = { val: -1, next: null },
+        crt = mergedHead;
+    while (l1 && l2) {
+        if (l1.val > l2.val) {
+            crt.next = l2;
+            l2 = l2.next;
+        } else {
+            crt.next = l1;
+            l1 = l1.next;
+        }
+        crt = crt.next;
+    }
+    crt.next = l1 || l2;
+    return mergedHead.next;
 };
 // @lc code=end
-

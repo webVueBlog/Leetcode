@@ -19,26 +19,21 @@
 (60 ms)
  */
 var trap = function(height) {
- const n = height.length;
- // 左侧最高的柱子
- const left = new Array(n).fill(0);
- const right = new Array(n).fill(0);
- let ans = 0;
+    const n = height.length;
+    const left = new Array(n).fill(0);
+    const right = new Array(n).fill(0);
+    let ans = 0;
+    for (let i = 1; i < n; i++) {
+        left[i] = Math.max(left[i - 1], height[i - 1]);
+    }
 
- for(let i = 1; i < n; i++) {
-  // left[i] i左侧最高柱子的高度 left[i - 1]表示i-1左侧最高的 height[i-1] 这一根
-  left[i] = Math.max(left[i - 1], height[i - 1]);
- }
-
- for(let i = n - 2; i >= 0; i--) {
-  right[i] = Math.max(right[i+1], height[i+1]);
-  // 左右最小的柱子
-  const short = Math.min(left[i], right[i]);
-  if(short > height[i]) {
-   ans += short - height[i];
-  }
- }
- return ans;
+    for (let i = n - 2; i >= 0; i--) {
+        right[i] = Math.max(right[i + 1], height[i + 1]);
+        let short = Math.min(left[i], right[i]);
+        if (short > height[i]) {
+            ans += short - height[i];
+        }
+    }
+    return ans;
 };
 // @lc code=end
-

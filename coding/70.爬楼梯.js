@@ -43,16 +43,14 @@ Dp [n] = Dp [n-1] + Dp [n-2]因为我们可以采取1步或2步。
 1步有一种方法，2步有两种方法(1步+ 1步或2步)
 
 (64 ms)
+(52 ms)
  */
 var climbStairs = function(n) {
- let dp = new Array(n + 1);
- dp[1] = 1, dp[2] = 2;
- for (let i = 3; i <= n; i++) {
-     dp[i] = dp[i-1] + dp[i-2];
- }
- return dp[n];
- // T.C: O(N)
- // S.C: O(N)
+    let dp = new Array(n + 1);
+    dp[1] = 1, dp[2] = 2;
+    for (let i = 3; i <= n; i++) {
+        dp[i] = dp[i - 1] + dp[i - 2];
+    }
+    return dp[n];
 };
 // @lc code=end
-
