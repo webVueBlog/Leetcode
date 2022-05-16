@@ -41,6 +41,7 @@
 
 - [【深入手写JS原生API】1.手写call和apply](https://github.com/webVueBlog/Leetcode/issues/36)
 - [【深入手写JS原生API】2.手写new和bind](https://github.com/webVueBlog/Leetcode/issues/37)
+- [【深入手写JS原生API】3. 手写柯里化函数](https://github.com/webVueBlog/Leetcode/issues/38)
 
 ## 深入理解JS核心技术
 
@@ -158,6 +159,11 @@
 |110|	[什么是 ECMAScript]()|
 
 </details>
+
+
+## ☀ 阶段三十五（715）
+
+
 
 ## ⭐ 阶段三十四（715）
 
