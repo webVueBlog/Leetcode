@@ -39,10 +39,11 @@
 
 ## 深入手写JS原生API
 
-- [【深入手写JS原生API】1.手写call和apply](https://github.com/webVueBlog/Leetcode/issues/36)
-- [【深入手写JS原生API】2.手写new和bind](https://github.com/webVueBlog/Leetcode/issues/37)
-- [【深入手写JS原生API】3. 手写柯里化函数](https://github.com/webVueBlog/Leetcode/issues/38)
-- [【深入手写JS原生API】4. 实现一个sum函数](https://github.com/webVueBlog/Leetcode/issues/39)
+- 【深入手写JS原生API】1.手写call和apply
+- 【深入手写JS原生API】2.手写new和bind
+- 【深入手写JS原生API】3. 手写柯里化函数
+- 【深入手写JS原生API】4. 实现一个sum函数
+- 【深入手写JS原生API】5. 手写一个偏函数
 
 ## 深入理解JS核心技术
 
