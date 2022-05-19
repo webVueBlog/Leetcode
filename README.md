@@ -37,6 +37,71 @@
 
 第一：你可以直接在本仓库阅读即可，**阶段性学习**。 （可以转载里面的所有知识点用到任何地方，但请添加仓库的地址）有问题欢迎提交[issues](https://github.com/webVueBlog/Leetcode/issues)
 
+## Leetcode题解
+
+- https://shields.io/
+- [leetcode](https://leetcode-cn.com/problemset/all/)
+
+<h1 align="center">👩🏻‍💻：webVueBlog的leetcode刷题📒</h1>
+<div align="center">
+  	<img src="https://img.shields.io/badge/-Easy-green">
+ 	  <img src="https://img.shields.io/badge/-Medium-orange">
+    <img src="https://img.shields.io/badge/-Hard-red">
+</div>
+
+- [1.two-sum](./leetcode/1.two-sum.js)
+- [1.两数之和](./leetcode/1.两数之和.js)
+- [3.longest-substring-without-repeating-characters](./leetcode/3.longest-substring-without-repeating-characters.js)
+- [3.无重复字符的最长子串](./leetcode/3.无重复字符的最长子串.js)
+- [7.reverse-integer](./leetcode/7.reverse-integer.js)
+- [37.sudoku-solver](./leetcode/37.sudoku-solver.js)
+- [43.multiply-strings](./leetcode/43.multiply-strings.js)
+- [56.merge-intervals](./leetcode/56.merge-intervals.js)
+- [62.unique-paths](./leetcode/62.unique-paths.js)
+- [64.minimum-path-sum](./leetcode/64.minimum-path-sum.js)
+- [78.子集](./leetcode/78.子集.js)
+- [101.symmetric-tree](./leetcode/101.symmetric-tree.js)
+- [129.sum-root-to-leaf-numbers](./leetcode/129.sum-root-to-leaf-numbers.js)
+- [198.house-robber](./leetcode/198.house-robber.js)
+- [206.反转链表](./leetcode/206.反转链表.js)
+- [220.contains-duplicate-iii](./leetcode/220.contains-duplicate-iii.js)
+- [239.sliding-window-maximum](./leetcode/239.sliding-window-maximum.js)
+- [263.ugly-number](./leetcode/263.ugly-number.js)
+- [300.longest-increasing-subsequence](./leetcode/300.longest-increasing-subsequence.js)
+- [312.burst-balloons](./leetcode/312.burst-balloons.js)
+- [415.add-strings](./leetcode/415.add-strings.js)
+- [503.next-greater-element-ii](./leetcode/503.next-greater-element-ii.js)
+- [674.longest-continuous-increasing-subsequence](./leetcode/674.longest-continuous-increasing-subsequence.js)
+- [784.letter-case-permutation](./leetcode/784.letter-case-permutation.js)
+- [1312.minimum-insertion-steps-to-make-a-string-palindrome](./leetcode/1312.minimum-insertion-steps-to-make-a-string-palindrome.js)
+- [1319.number-of-operations-to-make-network-connected](./leetcode/1319.number-of-operations-to-make-network-connected.js)
+- [1338.reduce-array-size-to-the-half](./leetcode/1338.reduce-array-size-to-the-half.js)
+- [1343](./leetcode/1343.js)
+- [1343.number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./leetcode/1343.number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.js)
+- [1432.改变一个整数能得到的最大差值](./leetcode/1432.改变一个整数能得到的最大差值.js)
+- [2135.count-words-obtained-after-adding-a-letter](./leetcode/2135.count-words-obtained-after-adding-a-letter.js)
+- [戳气球](./leetcode/戳气球.js)
+- [存在重复元素III](./leetcode/存在重复元素III.js)
+- [二维数组中的查找](./leetcode/二维数组中的查找.js)
+- [合并区间](./leetcode/合并区间.js)
+- [链表反转](./leetcode/链表反转.js)
+- [两数之和](./leetcode/两数之和.js)
+- [零钱兑换](./leetcode/零钱兑换.js)
+- [前K个高频单词](./leetcode/前K个高频单词.js)
+- [青蛙跳台阶问题](./leetcode/青蛙跳台阶问题.js)
+- [全排列](./leetcode/全排列.js)
+- [全排列II](./leetcode/全排列II.js)
+- [三数之和](./leetcode/三数之和.js)
+- [下一个更大元素II](./leetcode/下一个更大元素II.js)
+- [在排序数组中查找元素的第一个和最后一个位置](./leetcode/在排序数组中查找元素的第一个和最后一个位置.js)
+- [字符串相乘](./leetcode/字符串相乘.js)
+- [字符串相加](./leetcode/字符串相加.js)
+- [组合总和](./leetcode/组合总和.js)
+- [最小路径和](./leetcode/最小路径和.js)
+- [最长不含重复字符的子字符串](./leetcode/最长不含重复字符的子字符串.js)
+- [最长递增子序列](./leetcode/最长递增子序列.js)
+- [最长连续递增序列](./leetcode/最长连续递增序列.js)
+
 ## 深入手写JS原生API
 
 - 【深入手写JS原生API】1.手写call和apply
@@ -1176,32 +1241,6 @@
 - 40.[Taro框架](./全栈架构师/Taro框架.md) 
 
 </details>
-
-## Leetcode题解
-
-- https://shields.io/
-- [leetcode](https://leetcode-cn.com/problemset/all/)
-
-<h1 align="center">👩🏻‍💻：webVueBlog的leetcode刷题📒</h1>
-<div align="center">
-  	<img src="https://img.shields.io/badge/-Easy-green">
- 	  <img src="https://img.shields.io/badge/-Medium-orange">
-    <img src="https://img.shields.io/badge/-Hard-red">
-</div>
-
-1. `Number`题号
-2. `Title`题目
-3. `Difficulty`难度
-4. `Navigation`解答
-
-
-| Number | Title |   Difficulty  |   Navigation    |
-| :--: | :------:  |:------: | :------: |
-|  1.  | 两数之和  | <img src="https://img.shields.io/badge/-Easy-green"> | [两数之和](题库/两数之和.md) |
-|  2.  | 两数相加  | <img src="https://img.shields.io/badge/-Medium-orange"> | [两数相加](题库/两数相加.md) |
-|  3.  | 无重复字符的最长子串 | <img src="https://img.shields.io/badge/-Medium-orange"> | [无重复字符的最长子串](题库/无重复字符的最长子串.md) |
-
-以 「早起」、「运动」、「冥想」、「写作」、「阅读」这五件能够快速改变人生的事情为切入点，帮助大家建立良好的生活习惯，技术的成长绝不是一朝一夕，良好的习惯将会帮助我们更快的进步，但在技术之外，我更希望大家能在这些事情的坚持中，收获一份自信，多一份底气，对人生多一份积极。 --- （来源：低调务实优秀中国好青年群）
 
 ## License
 [![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/webVueBlog/interview-answe)
