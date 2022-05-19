@@ -16,15 +16,83 @@ First: you can read directly in this warehouse, phased learning. (all the knowle
 
 Welcome everyone to come to discuss, if you think it is helpful to your study, you are welcome to click Star (this warehouse will be updated on time every day).
 
-## ☕️ 赞助
+## 地址 ⬇️
 
-<img src="./assets/pay.jpg" width="200"/>
+[https://github.com/webVueBlog/Leetcode](https://github.com/webVueBlog/Leetcode)
+
+## Leetcode题解
+
+- https://shields.io/
+- [leetcode](https://leetcode-cn.com/problemset/all/)
+
+<h1 align="center">👩🏻‍💻：webVueBlog的leetcode刷题📒</h1>
+<div align="center">
+  	<img src="https://img.shields.io/badge/-Easy-green">
+ 	  <img src="https://img.shields.io/badge/-Medium-orange">
+    <img src="https://img.shields.io/badge/-Hard-red">
+</div>
+
+- [1.two-sum](./leetcode/1.two-sum.js)
+- [1.两数之和](./leetcode/1.两数之和.js)
+- [3.longest-substring-without-repeating-characters](./leetcode/3.longest-substring-without-repeating-characters.js)
+- [3.无重复字符的最长子串](./leetcode/3.无重复字符的最长子串.js)
+- [7.reverse-integer](./leetcode/7.reverse-integer.js)
+- [37.sudoku-solver](./leetcode/37.sudoku-solver.js)
+- [43.multiply-strings](./leetcode/43.multiply-strings.js)
+- [56.merge-intervals](./leetcode/56.merge-intervals.js)
+- [62.unique-paths](./leetcode/62.unique-paths.js)
+- [64.minimum-path-sum](./leetcode/64.minimum-path-sum.js)
+- [78.子集](./leetcode/78.子集.js)
+- [101.symmetric-tree](./leetcode/101.symmetric-tree.js)
+- [129.sum-root-to-leaf-numbers](./leetcode/129.sum-root-to-leaf-numbers.js)
+- [198.house-robber](./leetcode/198.house-robber.js)
+- [206.反转链表](./leetcode/206.反转链表.js)
+- [220.contains-duplicate-iii](./leetcode/220.contains-duplicate-iii.js)
+- [239.sliding-window-maximum](./leetcode/239.sliding-window-maximum.js)
+- [263.ugly-number](./leetcode/263.ugly-number.js)
+- [300.longest-increasing-subsequence](./leetcode/300.longest-increasing-subsequence.js)
+- [312.burst-balloons](./leetcode/312.burst-balloons.js)
+- [415.add-strings](./leetcode/415.add-strings.js)
+- [503.next-greater-element-ii](./leetcode/503.next-greater-element-ii.js)
+- [674.longest-continuous-increasing-subsequence](./leetcode/674.longest-continuous-increasing-subsequence.js)
+- [784.letter-case-permutation](./leetcode/784.letter-case-permutation.js)
+- [1312.minimum-insertion-steps-to-make-a-string-palindrome](./leetcode/1312.minimum-insertion-steps-to-make-a-string-palindrome.js)
+- [1319.number-of-operations-to-make-network-connected](./leetcode/1319.number-of-operations-to-make-network-connected.js)
+- [1338.reduce-array-size-to-the-half](./leetcode/1338.reduce-array-size-to-the-half.js)
+- [1343](./leetcode/1343.js)
+- [1343.number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./leetcode/1343.number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.js)
+- [1432.改变一个整数能得到的最大差值](./leetcode/1432.改变一个整数能得到的最大差值.js)
+- [2135.count-words-obtained-after-adding-a-letter](./leetcode/2135.count-words-obtained-after-adding-a-letter.js)
+- [戳气球](./leetcode/戳气球.js)
+- [存在重复元素III](./leetcode/存在重复元素III.js)
+- [二维数组中的查找](./leetcode/二维数组中的查找.js)
+- [合并区间](./leetcode/合并区间.js)
+- [链表反转](./leetcode/链表反转.js)
+- [两数之和](./leetcode/两数之和.js)
+- [零钱兑换](./leetcode/零钱兑换.js)
+- [前K个高频单词](./leetcode/前K个高频单词.js)
+- [青蛙跳台阶问题](./leetcode/青蛙跳台阶问题.js)
+- [全排列](./leetcode/全排列.js)
+- [全排列II](./leetcode/全排列II.js)
+- [三数之和](./leetcode/三数之和.js)
+- [下一个更大元素II](./leetcode/下一个更大元素II.js)
+- [在排序数组中查找元素的第一个和最后一个位置](./leetcode/在排序数组中查找元素的第一个和最后一个位置.js)
+- [字符串相乘](./leetcode/字符串相乘.js)
+- [字符串相加](./leetcode/字符串相加.js)
+- [组合总和](./leetcode/组合总和.js)
+- [最小路径和](./leetcode/最小路径和.js)
+- [最长不含重复字符的子字符串](./leetcode/最长不含重复字符的子字符串.js)
+- [最长递增子序列](./leetcode/最长递增子序列.js)
+- [最长连续递增序列](./leetcode/最长连续递增序列.js)
 
 ## 深入手写JS原生API
 
-- [【深入手写JS原生API】1.手写call和apply](https://github.com/webVueBlog/Leetcode/issues/36)
-- [【深入手写JS原生API】2.手写new和bind](https://github.com/webVueBlog/Leetcode/issues/37)
-- [【深入手写JS原生API】3. 手写柯里化函数](https://github.com/webVueBlog/Leetcode/issues/38)
+- 【深入手写JS原生API】1.手写call和apply
+- 【深入手写JS原生API】2.手写new和bind
+- 【深入手写JS原生API】3. 手写柯里化函数
+- 【深入手写JS原生API】4. 实现一个sum函数
+- 【深入手写JS原生API】5. 手写一个偏函数
+
 
 ## 深入理解JS核心技术
 
