@@ -1,5 +1,9 @@
 ## 正经的前端学习
 
+新增issues博客
+
+![28529a0f8f19ed720fa16ec5c005a7f](https://user-images.githubusercontent.com/59645426/169448220-5c86086a-3f6d-46d3-aae8-a53770b1aa81.png)
+
 [中文](./README.md) | [English](./README-ENGLISH.md)
 
 一个 ☝️ **正经的前端学习** 开源 仓库，每天进步一点！欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个**Star** （此仓库每天都会手动更新）
