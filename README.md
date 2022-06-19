@@ -110,15 +110,10 @@
 - [最长递增子序列](./leetcode/最长递增子序列.js)
 - [最长连续递增序列](./leetcode/最长连续递增序列.js)
 
-## 深入手写JS原生API
-
-- 【深入手写JS原生API】1.手写call和apply
-- 【深入手写JS原生API】2.手写new和bind
-- 【深入手写JS原生API】3. 手写柯里化函数
-- 【深入手写JS原生API】4. 实现一个sum函数
-- 【深入手写JS原生API】5. 手写一个偏函数
-
 ## 深入理解JS核心技术
+
+<details>
+<summary>展开查看</summary>
 
 | Number | Title |
 | :--: | :------:  |
