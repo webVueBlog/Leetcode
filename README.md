@@ -145,38 +145,38 @@
 |21|	[什么是暂时性死区](https://github.com/webVueBlog/Leetcode/issues/33)|
 |22|	[什么是 IIFE（立即调用函数表达式）](https://github.com/webVueBlog/Leetcode/issues/34)|
 |23|	[您如何在 JavaScript 中解码或编码 URL](https://github.com/webVueBlog/Leetcode/issues/35)|
-|24|	[什么是备忘]()|
-|25|	[什么是吊装]()|
-|26|	[ES6 中的类是什么]()|
-|27|	[什么是闭包]()|
-|28|	[什么是模块]()|
-|29|	[为什么需要模块]()|
-|30|	[javascript中的作用域是什么]()|
-|31|	[什么是服务人员]()|
-|32|	[如何使用 service worker 操作 DOM]()|
-|33|	[如何在 service worker 重启时重用信息]()|
-|34|	[什么是索引数据库]()|
-|35|	[什么是网络存储]()|
-|36|	[什么是发布消息]()|
-|37|	[什么是饼干]()|
-|38|	[为什么需要 Cookie]()|
-|39|	[cookie 中有哪些选项]()|
-|40|	[如何删除 cookie]()|
-|41|	[cookie、本地存储和会话存储有什么区别]()|
-|42|	[localStorage 和 sessionStorage 的主要区别是什么]()|
-|43|	[您如何访问网络存储]()|
-|44|	[会话存储上可用的方法有哪些]()|
-|45|	[什么是存储事件及其事件处理程序]()|
-|46|	[为什么需要网络存储]()|
-|47|	[你如何检查网络存储浏览器支持]()|
-|48|	[你如何检查网络工作者浏览器支持]()|
-|49|	[举个 web worker 的例子]()|
-|50|	[webworkers对DOM有什么限制]()|
-|51|	[什么是承诺]()|
-|52|	[为什么需要承诺]()|
-|53|	[承诺的三种状态是什么]()|
-|54|	[什么是回调函数]()|
-|55|	[为什么我们需要回调]()|
+|24|	[什么是memoization](https://github.com/webVueBlog/Leetcode/issues/41)|
+|25|	[什么是Hoisting](https://github.com/webVueBlog/Leetcode/issues/42)|
+|26|	[ES6 中的类是什么](https://github.com/webVueBlog/Leetcode/issues/43)|
+|27|	[什么是闭包](https://github.com/webVueBlog/Leetcode/issues/44)|
+|28|	[什么是模块](https://github.com/webVueBlog/Leetcode/issues/45)|
+|29|	[为什么需要模块](https://github.com/webVueBlog/Leetcode/issues/46)|
+|30|	[javascript中的作用域是什么](https://github.com/webVueBlog/Leetcode/issues/47)|
+|31|	[什么是service worker？](https://github.com/webVueBlog/Leetcode/issues/48)|
+|32|	[如何使用 service worker 操作 DOM](https://github.com/webVueBlog/Leetcode/issues/49)|
+|33|	[如何在 service worker 重启时重用信息](https://github.com/webVueBlog/Leetcode/issues/50)|
+|34|	[什么是索引数据库](https://github.com/webVueBlog/Leetcode/issues/51)|
+|35|	[什么是网络存储](https://github.com/webVueBlog/Leetcode/issues/52)|
+|36|	[什么是发布消息](https://github.com/webVueBlog/Leetcode/issues/53)|
+|37|	[什么是 Cookie](https://github.com/webVueBlog/Leetcode/issues/54)|
+|38|	[为什么需要 Cookie](https://github.com/webVueBlog/Leetcode/issues/55)|
+|39|	[cookie 中有哪些选项](https://github.com/webVueBlog/Leetcode/issues/56)|
+|40|	[如何删除 cookie](https://github.com/webVueBlog/Leetcode/issues/57)|
+|41|	[cookie、本地存储和会话存储有什么区别](https://github.com/webVueBlog/Leetcode/issues/58)|
+|42|	[localStorage 和 sessionStorage 的主要区别是什么](https://github.com/webVueBlog/Leetcode/issues/59)|
+|43|	[您如何访问网络存储](https://github.com/webVueBlog/Leetcode/issues/60)|
+|44|	[会话存储上可用的方法有哪些](https://github.com/webVueBlog/Leetcode/issues/61)|
+|45|	[什么是存储事件及其事件处理程序](https://github.com/webVueBlog/Leetcode/issues/62)|
+|46|	[为什么需要网络存储](https://github.com/webVueBlog/Leetcode/issues/63)|
+|47|	[你如何检查网络存储浏览器支持](https://github.com/webVueBlog/Leetcode/issues/64)|
+|48|	[你如何检查网络工作者浏览器支持](https://github.com/webVueBlog/Leetcode/issues/65)|
+|49|	[举个 web worker 的例子](https://github.com/webVueBlog/Leetcode/issues/66)|
+|50|	[webworkers对DOM有什么限制](https://github.com/webVueBlog/Leetcode/issues/67)|
+|51|	[什么是承诺](https://github.com/webVueBlog/Leetcode/issues/68)|
+|52|	[为什么需要承诺](https://github.com/webVueBlog/Leetcode/issues/69)|
+|53|	[承诺的三种状态是什么](https://github.com/webVueBlog/Leetcode/issues/70)|
+|54|	[什么是回调函数](https://github.com/webVueBlog/Leetcode/issues/71)|
+|55|	[为什么我们需要回调](https://github.com/webVueBlog/Leetcode/issues/72)|
 |56|	[什么是回调地狱]()|
 |57|	[什么是服务器发送事件]()|
 |58|	[您如何接收服务器发送的事件通知]()|
@@ -238,11 +238,14 @@
 
 ## ☀ 阶段三十五（715）
 
+<details>
+<summary>展开查看</summary>
 
+</details>
 
 ## ⭐ 阶段三十四（715）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 691.[code1](./阶段三十四/code1.js)
@@ -275,7 +278,7 @@
 
 ## 🌙 阶段三十三（690）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 669.[code21](./阶段三十三/code21.js)
@@ -304,7 +307,7 @@
 
 ## 👇 阶段三十二（668）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 649.[code1](./阶段三十二/code1.js)
@@ -333,7 +336,7 @@
 
 ## 🐂 阶段三十一（648）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 624.[220.存在重复元素III](./js-code/code/存在重复元素III.js)
@@ -366,7 +369,7 @@
 
 ## 🐂 阶段三十（623）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 599.[前K个高频单词](./js-code/code/前K个高频单词.js)
@@ -399,7 +402,7 @@
 
 ## 🤨 阶段二十九（598）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 566.[DOM-Element类型](./阶段二十九/Element类型.js)
@@ -440,7 +443,7 @@
 
 ## 😛 阶段二十八（565）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 556.[859. 亲密字符串](./阶段二十八/亲密字符串.js)
@@ -458,7 +461,7 @@
 
 ## 😛 阶段二十七（555）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 545.[92. 反转链表 II](https://github.com/webVueBlog/Leetcode/issues/12)
@@ -477,7 +480,7 @@
 
 ## 😛 阶段二十六（544）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 533.[23. 合并K个升序链表](./阶段二十六/合并.js)
@@ -497,7 +500,7 @@
 
 ## 😛 阶段二十五（532）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 526.[2135. 统计追加字母可以获得的单词数](./阶段二十五/统计追加字母可以获得的单词数.js)
@@ -513,7 +516,7 @@
 
 ## 😛 阶段二十四（525）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 515.[剑指 Offer 38. 字符串的排列](./阶段二十四/字符串的排列.js)
@@ -533,7 +536,7 @@
 
 ## 😛 阶段二十三（514）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 501.[剑指 Offer 07. 重建二叉树](./阶段二十三/重建二叉树.js)
@@ -555,7 +558,7 @@
 
 ## 📕 阶段二十二（500）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 481.[46. 全排列](./阶段二十二/全排列.js)
@@ -585,7 +588,7 @@
 
 ## 😋 阶段二十一（480）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 471.[Promise](./阶段二十一/Promise.js)
@@ -603,7 +606,7 @@
 
 ## ✔ 阶段二十（470）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 461.[526. 优美的排列](./阶段二十/优美的排列.js)
@@ -622,7 +625,7 @@
 
 ## 😗 阶段十九（460）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 451.[Object和Array复习](./阶段十九/Object和Array复习.js)
@@ -641,7 +644,7 @@
 
 ## 🐉 阶段十八（450）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 441.[react jsx](./阶段十八/jsx.md)
@@ -659,7 +662,7 @@
 
 ## 🐔 阶段十七（440）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 426.[说说浏览器解析CSS选择器的过程](./阶段十七/说说浏览器解析CSS选择器的过程.js)
@@ -683,7 +686,7 @@
 
 ## 🐟 阶段十六（425）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 402.[React安装](./阶段十六/index.html)
@@ -717,7 +720,7 @@
 
 ## 🦐 阶段十五（401）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 385.[Vue 动态添加路由及生成菜单](./阶段十五/动态添加路由及生成菜单.js)
@@ -743,7 +746,7 @@
 
 ## 🦂 阶段十四（384）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 371.[集合引用类型](./阶段十四/集合引用类型.js)
@@ -765,7 +768,7 @@
 
 ## 😘 阶段十三（370）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 341.[作用域链增强](./阶段十三/作用域链增强.js)
@@ -805,7 +808,7 @@
 
 ## 🥰 阶段十二（340）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 325.[最佳实践](./阶段十二/最佳实践.js)
@@ -831,7 +834,7 @@
 
 ## 😉 阶段十一（324）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 307.[script元素](./阶段十一/script元素.js)
@@ -857,7 +860,7 @@
 
 ## 🙃 阶段十（306）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 286.[HTTP工作原理](./阶段十/HTTP工作原理.js)
@@ -886,7 +889,7 @@
 
 ## 😍 阶段九（285）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 251.[元素的alt和title有什么区别](./阶段九/元素的alt和title有什么区别.js)
@@ -929,7 +932,7 @@
 
 ## 🧑🏻 阶段八（250）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 216.[事件循环Event Loop](./阶段八/事件循环.js)
@@ -972,7 +975,7 @@
 
 ## 🧑🏻‍💻 阶段七（215）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 191.[new关键字](./阶段七/new关键字.js)
@@ -1005,7 +1008,7 @@
 
 ## 😇 阶段六（190）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 176.[事件冒泡和事件捕获到底有何区别](阶段六/事件冒泡和事件捕获到底有何区别.md)
@@ -1029,7 +1032,7 @@
 
 ## 🧑🏻‍💻 阶段五（175）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 151.[数据绑定的容器更新](阶段四/数据绑定的容器更新.html)
@@ -1062,7 +1065,7 @@
 
 ## 🥲 阶段四（150）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 146.[页面导入样式时，使用link和@import有什么区别](./阶段四/页面导入样式时.js)
@@ -1075,7 +1078,7 @@
 
 ## 🧑🏻‍💻 阶段三（145）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 101.[闭包语义](./阶段三/闭包语义.js)
@@ -1128,7 +1131,7 @@
 
 ## 🤣 阶段二（100）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 51.[简述Chome盒模型与IE盒模型的区别](./阶段二/简述Chome盒模型与IE盒模型的区别.md)
@@ -1186,7 +1189,7 @@
 
 ## 🧑🏻‍💻 阶段一（50）
 
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 1.[xss总结](./阶段一/xss总结.md)
@@ -1236,7 +1239,7 @@
 
 ## 全栈架构师
  
-<details open>
+<details>
 <summary>展开查看</summary>
 
 - 33.[vue源码解读](./全栈架构师/vue源码解读.js)
