@@ -1,5 +1,7 @@
 ## 正经的前端学习
 
+<img align='center' src='https://user-images.githubusercontent.com/59645426/176900395-0b6ad5c7-26e1-48a5-8ead-3d50757c1633.jpg' width='350'>
+
 新增issues博客
 
 ![28529a0f8f19ed720fa16ec5c005a7f](https://user-images.githubusercontent.com/59645426/169448220-5c86086a-3f6d-46d3-aae8-a53770b1aa81.png)
